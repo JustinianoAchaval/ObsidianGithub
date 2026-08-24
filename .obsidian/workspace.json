@@ -27,14 +27,12 @@
             "id": "113c2275ea5cebf1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "video",
               "state": {
-                "file": "Electronica/Unidad1/Formulas.md",
-                "mode": "source",
-                "source": false
+                "file": "Electronica/Unidad1/Clase_1_Intro_a_Corriente_Alterna.mp4"
               },
               "icon": "lucide-file",
-              "title": "Formulas"
+              "title": "Clase_1_Intro_a_Corriente_Alterna"
             }
           }
         ],
@@ -226,11 +224,13 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "6580b5ef67b00498",
+  "active": "113c2275ea5cebf1",
   "lastOpenFiles": [
+    "Electronica/Unidad1/Formulas.md",
+    "Electronica/Unidad1/Clase_1_Intro_a_Corriente_Alterna.mp4",
+    "Electronica/Unidad1/Sin confirmar 771524.crdownload",
     "Electronica/Fotos/{5C171B43-EBF6-425C-8D59-76DBF81C1949}.png",
     "Electronica/Fotos/{4429C4EE-DFF5-4E7D-A1C9-2E528237676A}.png",
-    "Electronica/Unidad1/Formulas.md",
     "Electronica/Fotos",
     "Electronica/Unidad1/ClaseN1.pdf",
     "Electronica/ELECEjv1p16.pdf",
@@ -242,8 +242,6 @@
     "Electronica/UNC-ELEC-5607_7407-Notas_complementarias 1.pdf",
     "Electronica/Fórmulas electrónica.pdf",
     "Electronica/Unidad5",
-    "Electronica/Unidad2/Clase4.pdf",
-    "Electronica/Sin confirmar 403013.crdownload",
     "InformaticaAvanzada/Ejercicios de libre.md",
     "2026-09-22.md",
     "InformaticaAvanzada/Final Resolución.md",
@@ -264,7 +262,6 @@
     "Sin título.canvas",
     "2026-07-21.md",
     "Informatica Avanzada/capturas/{EAE90BD3-D521-45F8-9160-589804B3F2F6}.png",
-    "InformaticaAvanzada/capturas/Pasted image 20260719232257.png",
     "Bienvenido.md"
   ]
 }
