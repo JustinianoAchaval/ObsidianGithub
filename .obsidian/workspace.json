@@ -27,14 +27,12 @@
             "id": "113c2275ea5cebf1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "video",
               "state": {
-                "file": "Electronica/Unidad1/Formulas.md",
-                "mode": "source",
-                "source": false
+                "file": "Electronica/Unidad1/Clase_1_Intro_a_Corriente_Alterna.mp4"
               },
               "icon": "lucide-file",
-              "title": "Formulas"
+              "title": "Clase_1_Intro_a_Corriente_Alterna"
             }
           }
         ],
@@ -190,8 +188,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -226,10 +224,14 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "6580b5ef67b00498",
+  "active": "113c2275ea5cebf1",
   "lastOpenFiles": [
-    "Electronica/Fotos/formulas.png",
+    "Electronica/Unidad2/Clase_3_Semiconductores_y_Diodos.mp4",
+    "Electronica/Unidad2/Sin confirmar 93464.crdownload",
+    "Electronica/Unidad1/Clase_2__Circuitos_CA.mp4",
+    "Electronica/Unidad1/Sin confirmar 904963.crdownload",
     "Electronica/Unidad1/Formulas.md",
+    "Electronica/Fotos/formulas.png",
     "Electronica/Unidad1/ClaseN2.pdf",
     "Electronica/Unidad1/NotasClase2.md",
     "Electronica/Unidad1/Clase_1_Intro_a_Corriente_Alterna.mp4",
@@ -241,9 +243,6 @@
     "InformaticaAvanzada/Final.md",
     "2026-08-19.md",
     "Electronica/Unidad2/Clase3.pdf",
-    "Electronica/UNC-ELEC-5607_7407-Notas_complementarias 1.pdf",
-    "Electronica/Fórmulas electrónica.pdf",
-    "Electronica/Unidad5",
     "InformaticaAvanzada/Ejercicios de libre.md",
     "2026-09-22.md",
     "InformaticaAvanzada/Final Resolución.md",
