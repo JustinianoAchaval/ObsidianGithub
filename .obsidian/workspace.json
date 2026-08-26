@@ -39,12 +39,14 @@
             "id": "96486ee226e9c616",
             "type": "leaf",
             "state": {
-              "type": "video",
+              "type": "markdown",
               "state": {
-                "file": "Electronica/Unidad1/Clase_2__Circuitos_CA.mp4"
+                "file": "Electronica/Unidad2/Apuntes clase 3.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Clase_2__Circuitos_CA"
+              "title": "Apuntes clase 3"
             }
           }
         ],
@@ -238,10 +240,10 @@
   },
   "active": "96486ee226e9c616",
   "lastOpenFiles": [
-    "Electronica/Unidad2/Clase3.pdf",
     "Electronica/Unidad2/Clase_3_Semiconductores_y_Diodos.mp4",
-    "Electronica/Unidad2/Apuntes clase 3.md",
     "Electronica/Unidad1/Clase_2__Circuitos_CA.mp4",
+    "Electronica/Unidad2/Clase3.pdf",
+    "Electronica/Unidad2/Apuntes clase 3.md",
     "Electronica/Unidad1/Clase_1_Intro_a_Corriente_Alterna.mp4",
     "Electronica/Unidad2/Sin confirmar 93464.crdownload",
     "Electronica/Unidad1/Sin confirmar 904963.crdownload",
