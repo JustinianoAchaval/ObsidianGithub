@@ -34,10 +34,10 @@
               "type": "pdf",
               "state": {
                 "file": "Electronica/Unidad2/Clase3.pdf",
-                "page": 12,
-                "left": -16,
-                "top": 105,
-                "zoom": 0.982266290076134
+                "page": 13,
+                "left": -19,
+                "top": 187,
+                "zoom": 0.8169015947771215
               },
               "icon": "lucide-file-text",
               "title": "Clase3"
@@ -214,8 +214,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -234,22 +233,23 @@
   },
   "active": "f30dc0fb85e2592b",
   "lastOpenFiles": [
-    "Electronica/Unidad2/Clase3.pdf",
+    "Electronica/Libros/1-Boylestad Nashelsky - Electrónica. Teoría de Circuitos y Dispositivos Electrónicos 10 Ed.pdf",
     "Electronica/Unidad2/Apuntes clase 3.md",
-    "Electronica/Unidad1/ClaseN2.pdf",
+    "Electronica/Resumenes/Fórmulas electrónica.pdf",
+    "Electronica/Resumenes/Teórico Electrónica.pdf",
+    "Electronica/Resumenes",
+    "Electronica/Nueva carpeta",
+    "Electronica/Libros/Schockley_Junturas.pdf",
+    "Electronica/Libros/7-Electronics, A systems Approach - Storey.pdf",
+    "Electronica/Libros/7- Storey - Electrónica, de los Sistemas a los Componentes.pdf",
+    "Electronica/Libros/6-Schaum - Circuitos-electricos.pdf",
+    "Electronica/Libros/6-outline-of-electric-circuits-7nbsped-9781260011968-1260011968.pdf",
+    "Electronica/Libros/5-Hayt Kemmerly Durbin - Análisis de Circuitos en Ingeniería McGraw-Hill..pdf",
     "Electronica/Unidad1/Resumen Clase 2.md",
-    "Electronica/Unidad1/Clase_1_Intro_a_Corriente_Alterna.mp4",
-    "Electronica/Unidad1/ClaseN1.pdf",
-    "Electronica/Unidad2/Clase_3_Semiconductores_y_Diodos.mp4",
-    "Electronica/Unidad1/Clase_2__Circuitos_CA.mp4",
-    "Electronica/Unidad2/Sin confirmar 93464.crdownload",
-    "Electronica/Unidad1/Sin confirmar 904963.crdownload",
     "Electronica/Unidad1/Formulas.md",
     "Electronica/Fotos/formulas.png",
     "Electronica/Unidad1/NotasClase2.md",
-    "Electronica/Unidad1/Sin confirmar 771524.crdownload",
     "Electronica/Fotos/{4429C4EE-DFF5-4E7D-A1C9-2E528237676A}.png",
-    "Electronica/Fotos",
     "InformaticaAvanzada/Final.md",
     "2026-08-19.md",
     "InformaticaAvanzada/Ejercicios de libre.md",
