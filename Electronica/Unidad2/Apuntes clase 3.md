@@ -43,7 +43,7 @@ Al unir material P y N se forma el diodo, el cual puede encontrarse en 3 estados
     *   Circula una corriente limitadísima  llamada $I_s$ (Corriente de Saturación).
     *   💡 **Dato:** $I_s$ va desde $\sim 10\text{pA}$ a $\sim 10\mu\text{A}$.
 3.  **Polarización Directa ($V_{AK} > 0$):** 
-    *   Permite circular una $(e^{\frac{V_D}{n V_T}} - 1)$(Corriente de Difusión) dominada por cargas mayoritarias.
+    *   Permite circular una $I_s(e^{\frac{V_D}{n V_T}} - 1)$(Corriente de Difusión) dominada por cargas mayoritarias.
     *   💡 **Dato:** $I_D$ (Corriente del Diodo) es grande, del orden de $\sim 5\text{mA}$ a $\sim 200\text{A}$.
 
 ---

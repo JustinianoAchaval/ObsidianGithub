@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronica/Unidad2/Apuntes clase 3.md",
+                "file": "Electronica/Unidad1/Formulas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Apuntes clase 3"
+              "title": "Formulas"
             }
           }
         ]
@@ -31,16 +31,12 @@
             "id": "96486ee226e9c616",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "image",
               "state": {
-                "file": "Electronica/Unidad2/Clase3.pdf",
-                "page": 9,
-                "left": -16,
-                "top": 244,
-                "zoom": 0.982266290076134
+                "file": "Electronica/Fotos/formulas.png"
               },
-              "icon": "lucide-file-text",
-              "title": "Clase3"
+              "icon": "lucide-image",
+              "title": "formulas"
             }
           }
         ]
@@ -214,8 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,13 +227,14 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "f30dc0fb85e2592b",
+  "active": "6580b5ef67b00498",
   "lastOpenFiles": [
+    "Electronica/Fotos/formulas.png",
+    "Electronica/Unidad2/Clase3.pdf",
+    "Electronica/Unidad1/Formulas.md",
+    "Electronica/Unidad2/Apuntes clase 3.md",
     "Electronica/Unidad1/ClaseN1.pdf",
     "Electronica/Unidad1/Clase_2__Circuitos_CA.mp4",
-    "Electronica/Unidad1/Formulas.md",
-    "Electronica/Unidad2/Clase3.pdf",
-    "Electronica/Unidad2/Apuntes clase 3.md",
     "Electronica/Unidad2/Clase_3_Semiconductores_y_Diodos.mp4",
     "Electronica/Unidad1/Resumen Clase 2.md",
     "Electronica/Libros/Schockley_Junturas.pdf",
@@ -247,8 +243,6 @@
     "Electronica/Resumenes/Fórmulas electrónica.pdf",
     "Electronica/Resumenes/Teórico Electrónica.pdf",
     "Electronica/Resumenes",
-    "Electronica/Nueva carpeta",
-    "Electronica/Fotos/formulas.png",
     "Electronica/Unidad1/NotasClase2.md",
     "Electronica/Fotos/{4429C4EE-DFF5-4E7D-A1C9-2E528237676A}.png",
     "InformaticaAvanzada/Final.md",
