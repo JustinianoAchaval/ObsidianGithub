@@ -67,7 +67,7 @@ La relación básica es $P_D = V_D \cdot I_D$.
 
 ## 4. Modelos Simplificados para Circuitos
 
-Para simplificar el cálculo, en lugar de usar Shockley se utilizan modelos equivalentes[cite: 1]:
+Para simplificar el cálculo, en lugar de usar Shockley se utilizan modelos equivalentes:
 
 1.  **Modelo de Interruptor (Ideal):**
     *   Polarización directa: Funciona como un **interruptor cerrado** (cable ideal).

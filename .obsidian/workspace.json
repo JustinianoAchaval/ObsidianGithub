@@ -34,10 +34,10 @@
               "type": "pdf",
               "state": {
                 "file": "Electronica/Unidad2/Clase3.pdf",
-                "page": 13,
-                "left": -19,
-                "top": 187,
-                "zoom": 0.8169015947771215
+                "page": 15,
+                "left": -11,
+                "top": 219,
+                "zoom": 1
               },
               "icon": "lucide-file-text",
               "title": "Clase3"
@@ -214,7 +214,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,18 +234,18 @@
   },
   "active": "f30dc0fb85e2592b",
   "lastOpenFiles": [
-    "Electronica/Libros/1-Boylestad Nashelsky - Electrónica. Teoría de Circuitos y Dispositivos Electrónicos 10 Ed.pdf",
+    "Electronica/Unidad2/Clase3.pdf",
     "Electronica/Unidad2/Apuntes clase 3.md",
+    "Electronica/Libros/Schockley_Junturas.pdf",
+    "Electronica/Libros/1-Boylestad Nashelsky - Electrónica. Teoría de Circuitos y Dispositivos Electrónicos 10 Ed.pdf",
     "Electronica/Resumenes/Fórmulas electrónica.pdf",
     "Electronica/Resumenes/Teórico Electrónica.pdf",
     "Electronica/Resumenes",
     "Electronica/Nueva carpeta",
-    "Electronica/Libros/Schockley_Junturas.pdf",
     "Electronica/Libros/7-Electronics, A systems Approach - Storey.pdf",
     "Electronica/Libros/7- Storey - Electrónica, de los Sistemas a los Componentes.pdf",
     "Electronica/Libros/6-Schaum - Circuitos-electricos.pdf",
     "Electronica/Libros/6-outline-of-electric-circuits-7nbsped-9781260011968-1260011968.pdf",
-    "Electronica/Libros/5-Hayt Kemmerly Durbin - Análisis de Circuitos en Ingeniería McGraw-Hill..pdf",
     "Electronica/Unidad1/Resumen Clase 2.md",
     "Electronica/Unidad1/Formulas.md",
     "Electronica/Fotos/formulas.png",
