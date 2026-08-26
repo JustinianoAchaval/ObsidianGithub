@@ -34,10 +34,10 @@
               "type": "pdf",
               "state": {
                 "file": "Electronica/Unidad2/Clase3.pdf",
-                "page": 1,
-                "left": -16,
-                "top": 259,
-                "zoom": 0.982266290076134
+                "page": 12,
+                "left": -19,
+                "top": 101,
+                "zoom": 0.8169015947771215
               },
               "icon": "lucide-file-text",
               "title": "Clase3"
@@ -214,8 +214,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,9 +234,9 @@
   "active": "f30dc0fb85e2592b",
   "lastOpenFiles": [
     "Electronica/Unidad2/Clase3.pdf",
+    "Electronica/Unidad2/Apuntes clase 3.md",
     "Electronica/Unidad1/ClaseN2.pdf",
     "Electronica/Unidad1/Resumen Clase 2.md",
-    "Electronica/Unidad2/Apuntes clase 3.md",
     "Electronica/Unidad1/Clase_1_Intro_a_Corriente_Alterna.mp4",
     "Electronica/Unidad1/ClaseN1.pdf",
     "Electronica/Unidad2/Clase_3_Semiconductores_y_Diodos.mp4",

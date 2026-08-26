@@ -7,32 +7,43 @@
 ## 1. Materiales Semiconductores y Dopado
 
 Para entender el diodo, primero hay que entender el material base (generalmente Silicio o Germanio).
+ 
+* **Electrones de valencia:** Tanto el **Si** como el **Ge** tienen **4 electrones** en su capa de valencia.
 
-*   **Electrones de valencia:** Tanto el **Si** como el **Ge** tienen **4 electrones** en su capa de valencia.
+![Clase3, p.5](Electronica/Unidad2/Clase3.pdf#page=5&rect=63,32,381,152&color=yellow)
+
 *   **Bandas de Energía:** La energía necesaria para que un electrón salte a la banda de conducción se denomina *Energy Gap* ($E_g$).
-    *   Regla de los materiales: $E_{g,\text{aislante}} > E_{g,\text{semiconductor}}$.
-    *   Orden de mayor a menor: $E_{g,\text{GaAs}} > E_{g,\text{Si}} > E_{g,\text{Ge}}$.
+    *   Regla de los materiales: $E_{g,a\text{islante}} > E_{g,\text{semiconductor}}$.
+    *   Orden de mayor a menor: $E_{g,a}>E_{g,\text{GaAs}} > E_{g,\text{Si}} > E_{g,\text{Ge}}$.
+
+![Clase3, p.7](Electronica/Unidad2/Clase3.pdf#page=7&rect=9,38,447,152&color=yellow)
 
 ### Materiales Extrínsecos (Dopados)
-*   **Material Tipo N:** Se dopa con impurezas pentavalentes (Sb, As, P) que tienen 5 electrones de valencia. Son átomos **donadores**.
+*   **Material Tipo N:** Se dopa con impurezas pentavalentes (Sb, As, P) que tienen **5 electrones** de valencia. Son átomos **donadores**.
     *   *Mayoritarios:* Electrones ($-$).
     *   *Minoritarios:* Huecos ($+$).
-*   **Material Tipo P:** Se dopa con impurezas trivalentes (B, Ga, In) de 3 electrones de valencia. Son átomos **aceptores** porque dejan un hueco.
+
+![Clase3, p.8](Electronica/Unidad2/Clase3.pdf#page=8&rect=60,21,397,141&color=yellow)
+
+*   **Material Tipo P:** Se dopa con impurezas trivalentes (B, Ga, In) de **3 electrones** de valencia. Son átomos **aceptores** porque dejan un hueco.
     *   *Mayoritarios:* Huecos ($+$).
-    *   *Minoritarios:* Electrones ($-$)[.
+    *   *Minoritarios:* Electrones ($-$).
+
+![Clase3, p.9](Electronica/Unidad2/Clase3.pdf#page=9&rect=64,24,383,127&color=yellow)
+
 
 ---
 
 ## 2. La Juntura P-N (Polarización)
 
-Al unir material P y N se forma el diodo, el cual puede encontrarse en 3 estados de polarización[cite: 1]:
+Al unir material P y N se forma el diodo, el cual puede encontrarse en 3 estados de polarización:
 
 1.  **Sin polarización ($V_{AK} = 0$):** Se forma una región de agotamiento de cargas.
 2.  **Polarización Inversa ($V_{AK} < 0$):** La región de empobrecimiento se ensancha.
     *   Circula una corriente limitadísima llamada $I_s$.
     *   💡 **Dato:** $I_s$ va desde $\sim 10\text{pA}$ a $\sim 10\mu\text{A}$.
 3.  **Polarización Directa ($V_{AK} > 0$):** 
-    *   Permite circular una corriente grande dominada por mayoritarios.
+    *   Permite circular una corriente de difusión dominada por cargas mayoritarias.
     *   💡 **Dato:** $I_D$ es grande, del orden de $\sim 5\text{mA}$ a $\sim 200\text{A}$.
 
 ---
