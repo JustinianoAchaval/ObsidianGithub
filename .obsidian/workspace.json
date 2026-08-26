@@ -35,9 +35,9 @@
               "state": {
                 "file": "Electronica/Unidad2/Clase3.pdf",
                 "page": 12,
-                "left": -19,
-                "top": 101,
-                "zoom": 0.8169015947771215
+                "left": -16,
+                "top": 105,
+                "zoom": 0.982266290076134
               },
               "icon": "lucide-file-text",
               "title": "Clase3"
@@ -214,7 +214,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
