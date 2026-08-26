@@ -40,14 +40,13 @@ Al unir material P y N se forma el diodo, el cual puede encontrarse en 3 estados
 
 1.  **Sin polarización ($V_{AK} = 0$):** Se forma una región de agotamiento de cargas.
 2.  **Polarización Inversa ($V_{AK} < 0$):** La región de empobrecimiento se ensancha.
-    *   Circula una corriente limitadísima llamada $I_s$.
+    *   Circula una corriente limitadísima  llamada $I_s$ (Corriente de Saturación).
     *   💡 **Dato:** $I_s$ va desde $\sim 10\text{pA}$ a $\sim 10\mu\text{A}$.
 3.  **Polarización Directa ($V_{AK} > 0$):** 
-    *   Permite circular una corriente de difusión dominada por cargas mayoritarias.
-    *   💡 **Dato:** $I_D$ es grande, del orden de $\sim 5\text{mA}$ a $\sim 200\text{A}$.
+    *   Permite circular una $(e^{\frac{V_D}{n V_T}} - 1)$(Corriente de Difusión) dominada por cargas mayoritarias.
+    *   💡 **Dato:** $I_D$ (Corriente del Diodo) es grande, del orden de $\sim 5\text{mA}$ a $\sim 200\text{A}$.
 
 ---
-
 ## 3. Fórmulas Matemáticas Importantes
 
 ### Ecuación de Shockley (Curva del diodo)
