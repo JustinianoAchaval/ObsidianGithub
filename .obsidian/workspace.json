@@ -11,34 +11,6 @@
             "id": "f30dc0fb85e2592b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Electronica/Unidad1/ClaseN1.pdf",
-                "page": 2,
-                "left": -7,
-                "top": 204,
-                "zoom": 2.0505222217077543
-              },
-              "icon": "lucide-file-text",
-              "title": "ClaseN1"
-            }
-          },
-          {
-            "id": "113c2275ea5cebf1",
-            "type": "leaf",
-            "state": {
-              "type": "video",
-              "state": {
-                "file": "Electronica/Unidad1/Clase_2__Circuitos_CA.mp4"
-              },
-              "icon": "lucide-file",
-              "title": "Clase_2__Circuitos_CA"
-            }
-          },
-          {
-            "id": "96486ee226e9c616",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Electronica/Unidad2/Apuntes clase 3.md",
@@ -49,8 +21,29 @@
               "title": "Apuntes clase 3"
             }
           }
-        ],
-        "currentTab": 2
+        ]
+      },
+      {
+        "id": "26818adaf2d84123",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96486ee226e9c616",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Electronica/Unidad2/Clase3.pdf",
+                "page": 1,
+                "left": -16,
+                "top": 259,
+                "zoom": 0.982266290076134
+              },
+              "icon": "lucide-file-text",
+              "title": "Clase3"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,7 +214,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,23 +232,24 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "96486ee226e9c616",
+  "active": "f30dc0fb85e2592b",
   "lastOpenFiles": [
-    "Electronica/Unidad2/Clase_3_Semiconductores_y_Diodos.mp4",
-    "Electronica/Unidad1/Clase_2__Circuitos_CA.mp4",
     "Electronica/Unidad2/Clase3.pdf",
+    "Electronica/Unidad1/ClaseN2.pdf",
+    "Electronica/Unidad1/Resumen Clase 2.md",
     "Electronica/Unidad2/Apuntes clase 3.md",
     "Electronica/Unidad1/Clase_1_Intro_a_Corriente_Alterna.mp4",
+    "Electronica/Unidad1/ClaseN1.pdf",
+    "Electronica/Unidad2/Clase_3_Semiconductores_y_Diodos.mp4",
+    "Electronica/Unidad1/Clase_2__Circuitos_CA.mp4",
     "Electronica/Unidad2/Sin confirmar 93464.crdownload",
     "Electronica/Unidad1/Sin confirmar 904963.crdownload",
     "Electronica/Unidad1/Formulas.md",
     "Electronica/Fotos/formulas.png",
-    "Electronica/Unidad1/ClaseN2.pdf",
     "Electronica/Unidad1/NotasClase2.md",
     "Electronica/Unidad1/Sin confirmar 771524.crdownload",
     "Electronica/Fotos/{4429C4EE-DFF5-4E7D-A1C9-2E528237676A}.png",
     "Electronica/Fotos",
-    "Electronica/Unidad1/ClaseN1.pdf",
     "InformaticaAvanzada/Final.md",
     "2026-08-19.md",
     "InformaticaAvanzada/Ejercicios de libre.md",
