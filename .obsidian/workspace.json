@@ -11,39 +11,34 @@
             "id": "f30dc0fb85e2592b",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Electronica/Unidad1/ClaseN1.pdf",
+                "page": 2,
+                "left": -7,
+                "top": 204,
+                "zoom": 2.0505222217077543
+              },
+              "icon": "lucide-file-text",
+              "title": "ClaseN1"
+            }
+          },
+          {
+            "id": "113c2275ea5cebf1",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronica/Unidad2/Apuntes clase 3.md",
+                "file": "Electronica/Unidad1/Formulas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Apuntes clase 3"
+              "title": "Formulas"
             }
           }
-        ]
-      },
-      {
-        "id": "26818adaf2d84123",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "96486ee226e9c616",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Electronica/Unidad2/Clase3.pdf",
-                "page": 12,
-                "left": -16,
-                "top": 105,
-                "zoom": 0.982266290076134
-              },
-              "icon": "lucide-file-text",
-              "title": "Clase3"
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,8 +190,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -214,8 +209,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,26 +226,27 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "f30dc0fb85e2592b",
+  "active": "3a947a6c326dd23e",
   "lastOpenFiles": [
-    "Electronica/Unidad2/Clase3.pdf",
-    "Electronica/Unidad2/Apuntes clase 3.md",
-    "Electronica/Unidad1/ClaseN2.pdf",
-    "Electronica/Unidad1/Resumen Clase 2.md",
-    "Electronica/Unidad1/Clase_1_Intro_a_Corriente_Alterna.mp4",
-    "Electronica/Unidad1/ClaseN1.pdf",
     "Electronica/Unidad2/Clase_3_Semiconductores_y_Diodos.mp4",
+    "Electronica/Unidad2/Apuntes clase 3.md",
+    "Electronica/Unidad1/Resumen Clase 2.md",
     "Electronica/Unidad1/Clase_2__Circuitos_CA.mp4",
-    "Electronica/Unidad2/Sin confirmar 93464.crdownload",
-    "Electronica/Unidad1/Sin confirmar 904963.crdownload",
-    "Electronica/Unidad1/Formulas.md",
     "Electronica/Fotos/formulas.png",
+    "Electronica/Unidad1/Formulas.md",
+    "Electronica/Unidad1/ClaseN2.pdf",
     "Electronica/Unidad1/NotasClase2.md",
+    "Electronica/Unidad1/Clase_1_Intro_a_Corriente_Alterna.mp4",
     "Electronica/Unidad1/Sin confirmar 771524.crdownload",
     "Electronica/Fotos/{4429C4EE-DFF5-4E7D-A1C9-2E528237676A}.png",
     "Electronica/Fotos",
+    "Electronica/Unidad1/ClaseN1.pdf",
+    "Electronica/ELECEjv1p16.pdf",
     "InformaticaAvanzada/Final.md",
     "2026-08-19.md",
+    "Electronica/Unidad2/Clase3.pdf",
+    "Electronica/UNC-ELEC-5607_7407-Notas_complementarias 1.pdf",
+    "Electronica/Fórmulas electrónica.pdf",
     "InformaticaAvanzada/Ejercicios de libre.md",
     "2026-09-22.md",
     "InformaticaAvanzada/Final Resolución.md",
