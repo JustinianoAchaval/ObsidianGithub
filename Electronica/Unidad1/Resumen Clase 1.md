@@ -46,5 +46,5 @@ Es muy importante estudiar el comportamiento de los circuitos en CA debido a los
 *   **Definición conceptual:** El valor eficaz permite realizar una comparación directa entre un circuito en Corriente Alterna (CA) y otro en Corriente Continua (CC) que produzca exactamente la **misma disipación** de potencia.
 *   **Planteo:** Si se reemplaza la fuente de tensión alterna por una fuente de CC, se espera que exista una corriente constante ($i(t) = I_{ef}$) que disipe idéntica cantidad de calor.
 *   **Fórmula matemática (Corriente Eficaz):** Igualando las potencias ($P_M = I_{ef}^2 \cdot R$), se obtiene:
-    $$ I_{ef} = \sqrt{ \frac{1}{T} \int_{0}^{T} i^2(t) dt } $$.
+    $$ I_{ef} = \sqrt{ \frac{1}{T} \int_{0}^{T} i^2(t) dt } $$
 *   📌 **Nota:** A partir de esta misma definición y procedimiento, se puede establecer de forma análoga la expresión para la **tensión eficaz ($V_{ef}$)**.
