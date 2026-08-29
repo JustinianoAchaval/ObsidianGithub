@@ -46,29 +46,25 @@
               "icon": "lucide-file",
               "title": "Resumen Clase 2"
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "26818adaf2d84123",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "96486ee226e9c616",
+            "id": "f1f5106751662b5f",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Electronica/Unidad2/Clase3.pdf",
-                "page": 1,
-                "zoom": 1
+                "file": "Electronica/Unidad1/ClaseN2.pdf",
+                "page": 12,
+                "left": -9,
+                "top": 78,
+                "zoom": 1.7197928311097297
               },
               "icon": "lucide-file-text",
-              "title": "Clase3"
+              "title": "ClaseN2"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -256,26 +252,26 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "72384a465207bbf4",
+  "active": "f1f5106751662b5f",
   "lastOpenFiles": [
-    "Electronica/Unidad1/Clase_1_Intro_a_Corriente_Alterna.mp4",
-    "Electronica/Unidad1/Resumen Clase 2.md",
-    "Electronica/Unidad1/NotasClase2.md",
+    "Electronica/Libros/1-Boylestad Nashelsky - Electrónica. Teoría de Circuitos y Dispositivos Electrónicos 10 Ed.pdf",
     "Electronica/Unidad1/Resumen Clase 1.md",
+    "Electronica/Unidad1/Formulas.md",
+    "Electronica/Unidad1/Clase_1_Intro_a_Corriente_Alterna.mp4",
+    "Electronica/Unidad1/NotasClase2.md",
+    "Electronica/Unidad1/ClaseN1.pdf",
+    "Electronica/Unidad2/Resumen Clase 4.md",
+    "Electronica/Unidad1/Resumen Clase 2.md",
     "Electronica/Unidad2/Resumen clase 3.md",
     "conflict-files-obsidian-git.md",
     "Electronica/UNC-ELEC-5607_7407-Notas_complementarias 1.pdf",
     "Electronica/Fotos/formulas.png",
     "Electronica/Unidad2/Clase3.pdf",
-    "Electronica/Unidad1/Formulas.md",
-    "Electronica/Unidad1/ClaseN1.pdf",
     "Electronica/Unidad1/Clase_2__Circuitos_CA.mp4",
     "Electronica/Unidad2/Clase_3_Semiconductores_y_Diodos.mp4",
     "Electronica/Libros/Schockley_Junturas.pdf",
     "Electronica/Libros/2-Sedra Smith - Circuitos_microelectr_nicos.pdf",
-    "Electronica/Libros/1-Boylestad Nashelsky - Electrónica. Teoría de Circuitos y Dispositivos Electrónicos 10 Ed.pdf",
     "Electronica/Resumenes/Fórmulas electrónica.pdf",
-    "Electronica/Resumenes/Teórico Electrónica.pdf",
     "Electronica/Fotos/{4429C4EE-DFF5-4E7D-A1C9-2E528237676A}.png",
     "InformaticaAvanzada/Final.md",
     "2026-08-19.md",
