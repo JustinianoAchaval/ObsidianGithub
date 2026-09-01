@@ -11,14 +11,16 @@
             "id": "87069d1559e78ec9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Electronica/Taller y Lab.md",
-                "mode": "source",
-                "source": false
+                "file": "Electronica/Unidad1/ClaseN1.pdf",
+                "page": 2,
+                "left": -7,
+                "top": 229,
+                "zoom": 2.0240638704599125
               },
-              "icon": "lucide-file",
-              "title": "Taller y Lab"
+              "icon": "lucide-file-text",
+              "title": "ClaseN1"
             }
           }
         ]
@@ -99,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronica/Taller y Lab.md",
+                "file": "Electronica/Unidad1/ClaseN1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronica/Taller y Lab.md",
+                "file": "Electronica/Unidad1/ClaseN1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronica/Taller y Lab.md",
+                "file": "Electronica/Unidad1/ClaseN1.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -212,11 +214,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "6568aa3798518f2c",
+  "active": "87069d1559e78ec9",
   "lastOpenFiles": [
-    "Electronica/Unidad1/ClaseN1.pdf",
-    "Electronica/Taller y Lab.md",
     "Electronica/Unidad1/Formulas.md",
+    "Electronica/Taller y Lab.md",
+    "Electronica/Unidad1/ClaseN1.pdf",
     "Electronica/Integrales.md",
     "conflict-files-obsidian-git.md"
   ]
