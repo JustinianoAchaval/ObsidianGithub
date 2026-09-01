@@ -43,12 +43,12 @@
 
 ## 4. Integrales y Derivadas Trigonométricas
 
-| Función Trigonométrica | Integral | Derivada |
-| :--- | :--- | :--- |
-| **Seno** | $\int \sin(x) dx = -\cos(x) + C$ | $\frac{d}{dx} (\sin(x)) = \cos(x)$ |
-| **Coseno** | $\int \cos(x) dx = \sin(x) + C$ | $\frac{d}{dx} (\cos(x)) = -\sin(x)$ |
-| **Tangente** | $\int \tan(x) dx = -\ln\|\cos(x)\| + C$ | $\frac{d}{dx} (\tan(x)) = \sec^2(x)$ |
-| **Secante al cuadrado** | $\int \sec^2(x) dx = \tan(x) + C$ | N/A |
+| Función Trigonométrica  | Integral                                | Derivada                             |
+| :---------------------- | :-------------------------------------- | :----------------------------------- |
+| **Seno**                | $\int \sin(x) dx = -\cos(x) + C$        | $\frac{d}{dx} (\sin(x)) = \cos(x)$   |
+| **Coseno**              | $\int \cos(x) dx = \sin(x) + C$         | $\frac{d}{dx} (\cos(x)) = -\sin(x)$  |
+| **Tangente**            | $\int \tan(x) dx = -\ln\|\cos(x)\| + C$ | $\frac{d}{dx} (\tan(x)) = \sec^2(x)$ |
+| **Secante al cuadrado** | $\int \sec^2(x) dx = \tan(x) + C$       | N/A                                  |
 
 ---
 

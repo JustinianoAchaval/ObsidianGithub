@@ -11,16 +11,14 @@
             "id": "87069d1559e78ec9",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Electronica/Unidad1/ClaseN1.pdf",
-                "page": 2,
-                "left": -7,
-                "top": 229,
-                "zoom": 2.0240638704599125
+                "file": "Electronica/Integrales.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "ClaseN1"
+              "icon": "lucide-file",
+              "title": "Integrales"
             }
           }
         ]
@@ -101,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronica/Unidad1/ClaseN1.pdf",
+                "file": "Electronica/Integrales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronica/Unidad1/ClaseN1.pdf",
+                "file": "Electronica/Integrales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -163,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronica/Unidad1/ClaseN1.pdf",
+                "file": "Electronica/Integrales.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -216,9 +214,11 @@
   },
   "active": "87069d1559e78ec9",
   "lastOpenFiles": [
+    "Electronica/Unidad2/Resumen clase 3.md",
+    "Electronica/Unidad2/Resumen Clase 4.md",
+    "Electronica/Unidad1/ClaseN1.pdf",
     "Electronica/Unidad1/Formulas.md",
     "Electronica/Taller y Lab.md",
-    "Electronica/Unidad1/ClaseN1.pdf",
     "Electronica/Integrales.md",
     "conflict-files-obsidian-git.md"
   ]
