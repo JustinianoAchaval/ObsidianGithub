@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "16ee54c01bd68b21",
+        "id": "dcfcdaaa6337644f",
         "type": "tabs",
         "children": [
           {
-            "id": "76cdd8411519542e",
+            "id": "87069d1559e78ec9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Integrales.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Integrales"
             }
           }
         ]
@@ -99,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Integrales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Integrales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -159,6 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Integrales.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -209,8 +212,9 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "5b03b4ec61f64857",
+  "active": "87069d1559e78ec9",
   "lastOpenFiles": [
+    "Integrales.md",
     "conflict-files-obsidian-git.md"
   ]
 }
