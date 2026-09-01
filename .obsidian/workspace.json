@@ -1,73 +1,24 @@
 {
   "main": {
-    "id": "d920312d30e85b0c",
+    "id": "788769965199a8c6",
     "type": "split",
     "children": [
       {
-        "id": "7fe1b6286d8b2160",
+        "id": "16ee54c01bd68b21",
         "type": "tabs",
         "children": [
           {
-            "id": "f30dc0fb85e2592b",
+            "id": "76cdd8411519542e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronica/Unidad2/Resumen clase 3.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resumen clase 3"
-            }
-          },
-          {
-            "id": "31f6c69968694a6c",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Electronica/Fotos/formulas.png"
-              },
-              "icon": "lucide-image",
-              "title": "formulas"
-            }
-          },
-          {
-            "id": "72384a465207bbf4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Electronica/Unidad2/Resumen clase 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Resumen clase 3"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "26818adaf2d84123",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "96486ee226e9c616",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Electronica/Unidad2/Clase3.pdf",
-                "page": 1,
-                "left": -13,
-                "top": 259,
-                "zoom": 1.1344018097512254
-              },
-              "icon": "lucide-file-text",
-              "title": "Clase3"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -76,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e4de19b048f18276",
+    "id": "570d915d07bd465a",
     "type": "split",
     "children": [
       {
-        "id": "52d4b84c89735247",
+        "id": "6ba0ef9a1b429158",
         "type": "tabs",
         "children": [
           {
-            "id": "6580b5ef67b00498",
+            "id": "6568aa3798518f2c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -99,7 +50,7 @@
             }
           },
           {
-            "id": "004a57002b791c3d",
+            "id": "00cf19c050a06d04",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -116,11 +67,14 @@
             }
           },
           {
-            "id": "a53267c7f11ee51d",
+            "id": "95ff747e8d1deb99",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Marcadores"
             }
@@ -129,23 +83,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "2d0578f139d12586",
+    "id": "013f7c17898f1c98",
     "type": "split",
     "children": [
       {
-        "id": "bf6f86c49fe2b8c3",
+        "id": "4828bcb39b68df38",
         "type": "tabs",
         "children": [
           {
-            "id": "06b0ef81debda494",
+            "id": "6a12c7796264917b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "final mis respuestas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,25 +108,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de final mis respuestas"
+              "title": "Enlaces entrantes"
             }
           },
           {
-            "id": "45764633fe2ce009",
+            "id": "d77ddc6f3c1e0516",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "final mis respuestas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de final mis respuestas"
+              "title": "Enlaces salientes"
             }
           },
           {
-            "id": "2b88eb029701c24e",
+            "id": "066d894689daef5d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -188,7 +140,7 @@
             }
           },
           {
-            "id": "4ea006d5e46e36ae",
+            "id": "f6e4bb9cee1c8e6c",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -202,22 +154,21 @@
             }
           },
           {
-            "id": "47df3bb11ca6fa24",
+            "id": "c9c10b7498835489",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "final mis respuestas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de final mis respuestas"
+              "title": "Esquema"
             }
           },
           {
-            "id": "c399fbbf29d59d86",
+            "id": "70a4f178bd95c768",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -227,7 +178,7 @@
             }
           },
           {
-            "id": "3a947a6c326dd23e",
+            "id": "5b03b4ec61f64857",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -241,7 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -258,47 +209,8 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "72384a465207bbf4",
+  "active": "5b03b4ec61f64857",
   "lastOpenFiles": [
-    "Electronica/Unidad1/Resumen Clase 2.md",
-    "Electronica/Unidad1/Clase_1_Intro_a_Corriente_Alterna.mp4",
-    "Electronica/Unidad1/NotasClase2.md",
-    "Electronica/Unidad1/Resumen Clase 1.md",
-    "Electronica/Unidad2/Resumen clase 3.md",
-    "conflict-files-obsidian-git.md",
-    "Electronica/UNC-ELEC-5607_7407-Notas_complementarias 1.pdf",
-    "Electronica/Fotos/formulas.png",
-    "Electronica/Unidad2/Clase3.pdf",
-    "Electronica/Unidad1/Formulas.md",
-    "Electronica/Unidad1/ClaseN1.pdf",
-    "Electronica/Unidad1/Clase_2__Circuitos_CA.mp4",
-    "Electronica/Unidad2/Clase_3_Semiconductores_y_Diodos.mp4",
-    "Electronica/Libros/Schockley_Junturas.pdf",
-    "Electronica/Libros/2-Sedra Smith - Circuitos_microelectr_nicos.pdf",
-    "Electronica/Libros/1-Boylestad Nashelsky - Electrónica. Teoría de Circuitos y Dispositivos Electrónicos 10 Ed.pdf",
-    "Electronica/Resumenes/Fórmulas electrónica.pdf",
-    "Electronica/Fotos/{4429C4EE-DFF5-4E7D-A1C9-2E528237676A}.png",
-    "InformaticaAvanzada/Final.md",
-    "2026-08-19.md",
-    "InformaticaAvanzada/Ejercicios de libre.md",
-    "2026-09-22.md",
-    "InformaticaAvanzada/Final Resolución.md",
-    "InformaticaAvanzada/Final mis respuestas.md",
-    "InformaticaAvanzada/Ejercicios de libre resolución.md",
-    "InformaticaAvanzada/Parcial_Practica_Flota_Drones.md",
-    "InformaticaAvanzada/Practica.md",
-    "2026-07-23.md",
-    "InformaticaAvanzada/Resumen.md",
-    "InformaticaAvanzada/capturas/{BD808C40-AA11-49E3-9E0B-C115CB51F499}.png",
-    "InformaticaAvanzada/capturas/{584DF7B4-36C5-4325-89B4-308C8E7B5DCE}.png",
-    "InformaticaAvanzada/capturas/{C3E0AE04-AFEB-4AA0-BBEE-C200BF001285}.png",
-    "InformaticaAvanzada/capturas/{7F44B27A-7BE9-4552-8F4F-472A889E7991}.png",
-    "Informatica Avanzada/Ejercicios de libre Resuelto.md",
-    "InformaticaAvanzada/capturas/{0A317636-2B0E-49DF-8EF2-65C6576AE201}.png",
-    "InformaticaAvanzada/capturas/{16B7F6BE-FE08-490C-96E4-509025286AD4}.png",
-    "InformaticaAvanzada/capturas/{862D40BF-102F-4A0E-8BFE-732A81ABA7AF}.png",
-    "Sin título.canvas",
-    "2026-07-21.md",
-    "Bienvenido.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
