@@ -8,59 +8,84 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f30dc0fb85e2592b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Electronica/Unidad2/Resumen clase 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Resumen clase 3"
-            }
-          },
-          {
-            "id": "31f6c69968694a6c",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Electronica/Fotos/formulas.png"
-              },
-              "icon": "lucide-image",
-              "title": "formulas"
-            }
-          },
-          {
-            "id": "72384a465207bbf4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Electronica/Unidad1/Resumen Clase 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Resumen Clase 2"
-            }
-          },
-          {
             "id": "f1f5106751662b5f",
             "type": "leaf",
             "state": {
-              "type": "video",
+              "type": "markdown",
               "state": {
-                "file": "Electronica/Unidad2/Clase_4__Análisis_Avanzado_de_Diodos.mp4"
+                "file": "Electronica/Unidad2/Resumen Clase 4.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Clase_4__Análisis_Avanzado_de_Diodos"
+              "title": "Resumen Clase 4"
+            }
+          },
+          {
+            "id": "70eab571f805a254",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "intento1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "intento1"
             }
           }
-        ],
-        "currentTab": 3
+        ]
+      },
+      {
+        "id": "21e85020bd5aaf72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab0b44fe17fe30d9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Electronica/Unidad2/Clase4.pdf",
+                "page": 10,
+                "left": 3,
+                "top": 29,
+                "zoom": 1.1
+              },
+              "icon": "lucide-file-text",
+              "title": "Clase4"
+            }
+          },
+          {
+            "id": "105675d71d8397b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "intento 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "intento 2"
+            }
+          },
+          {
+            "id": "43dd8c9ee8d277bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "intento1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "intento1"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -250,7 +275,13 @@
   },
   "active": "f1f5106751662b5f",
   "lastOpenFiles": [
+    "intento1.md",
     "Electronica/Unidad2/Resumen Clase 4.md",
+    "Electronica/Unidad2/Clase4.pdf",
+    "intento 2.md",
+    "Sin nombre",
+    "Electronica/Unidad2/Resumen clase 3.md",
+    "Electronica/Unidad2/Clase_4__Análisis_Avanzado_de_Diodos.mp4",
     "Electronica/Unidad1/Formulas.md",
     "Electronica/Taller y Lab.md",
     "Electronica/Integrales.md",
@@ -261,13 +292,9 @@
     "InformaticaYCalculoNumerico/Clases/Clase 7.pptx",
     "InformaticaYCalculoNumerico/Clases/Sin confirmar 979146.crdownload",
     "InformaticaYCalculoNumerico/Clases/Clase 5.pptx",
-    "InformaticaYCalculoNumerico/Clases/Sin confirmar 833908.crdownload",
-    "InformaticaYCalculoNumerico/Clases/Clase 4.pptx",
-    "InformaticaYCalculoNumerico/Clases/Sin confirmar 867504.crdownload",
     "Electronica/Unidad1/Resumen Clase 1.md",
     "Electronica/Unidad1/NotasClase2.md",
     "Electronica/Unidad1/Resumen Clase 2.md",
-    "Electronica/Unidad2/Resumen clase 3.md",
     "conflict-files-obsidian-git.md",
     "Electronica/Fotos/formulas.png",
     "Electronica/Fotos/{4429C4EE-DFF5-4E7D-A1C9-2E528237676A}.png",
