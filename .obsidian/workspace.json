@@ -45,16 +45,14 @@
             "id": "ab0b44fe17fe30d9",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Electronica/Unidad1/ClaseN2.pdf",
-                "page": 3,
-                "left": -19,
-                "top": 222,
-                "zoom": 0.8169015947771215
+                "file": "Electronica/Unidad1/Formulas.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "ClaseN2"
+              "icon": "lucide-file",
+              "title": "Formulas"
             }
           },
           {
@@ -275,6 +273,10 @@
   },
   "active": "ab0b44fe17fe30d9",
   "lastOpenFiles": [
+    "Electronica/Integrales.md",
+    "Electronica/Taller y Lab.md",
+    "Electronica/ELECEjv1p16.pdf",
+    "Electronica/Unidad1/ClaseN2.pdf",
     "Electronica/Unidad1/Clase_2__Circuitos_CA.mp4",
     "Electronica/Unidad2/Clase4.pdf",
     "Electronica/Unidad2/Resumen Clase 4.md",
@@ -284,15 +286,10 @@
     "Electronica/Unidad2/Resumen clase 3.md",
     "Electronica/Unidad2/Clase_4__Análisis_Avanzado_de_Diodos.mp4",
     "Electronica/Unidad1/Formulas.md",
-    "Electronica/Taller y Lab.md",
-    "Electronica/Integrales.md",
     "InformaticaYCalculoNumerico/C++_para_programadores.mp4",
     "InformaticaYCalculoNumerico/Sin confirmar 742034.crdownload",
     "InformaticaYCalculoNumerico/Clases/Clase 6.pptx",
     "InformaticaYCalculoNumerico/Clases/Sin confirmar 460134.crdownload",
-    "InformaticaYCalculoNumerico/Clases/Clase 7.pptx",
-    "InformaticaYCalculoNumerico/Clases/Sin confirmar 979146.crdownload",
-    "InformaticaYCalculoNumerico/Clases/Clase 5.pptx",
     "Electronica/Unidad1/Resumen Clase 1.md",
     "Electronica/Unidad1/NotasClase2.md",
     "Electronica/Unidad1/Resumen Clase 2.md",

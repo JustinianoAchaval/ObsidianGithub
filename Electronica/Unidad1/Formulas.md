@@ -21,3 +21,7 @@ $$V_{ef}^2 = \frac{1}{T} (V_{ef1}^2 \cdot (\Delta t1) + V_{ef2}^2 \cdot (\Delta 
 
 
 ![formulas](../Fotos/formulas.png)
+
+$$ Z = R + jX $$
+$$ Xc = -\frac1{wC_1} $$
+$$ I = \frac{V}{Z}  $$
