@@ -47,12 +47,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Electronica/Unidad2/Clase4.pdf",
-                "page": 1,
-                "zoom": 1
+                "file": "Electronica/Unidad1/ClaseN2.pdf",
+                "page": 3,
+                "left": -19,
+                "top": 222,
+                "zoom": 0.8169015947771215
               },
               "icon": "lucide-file-text",
-              "title": "Clase4"
+              "title": "ClaseN2"
             }
           },
           {
@@ -271,11 +273,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "f1f5106751662b5f",
+  "active": "ab0b44fe17fe30d9",
   "lastOpenFiles": [
-    "intento1.md",
-    "Electronica/Unidad2/Resumen Clase 4.md",
+    "Electronica/Unidad1/Clase_2__Circuitos_CA.mp4",
     "Electronica/Unidad2/Clase4.pdf",
+    "Electronica/Unidad2/Resumen Clase 4.md",
+    "intento1.md",
     "intento 2.md",
     "Sin nombre",
     "Electronica/Unidad2/Resumen clase 3.md",
