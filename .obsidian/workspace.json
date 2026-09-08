@@ -11,14 +11,16 @@
             "id": "87069d1559e78ec9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Electronica/Unidad1/Formulas.md",
-                "mode": "source",
-                "source": false
+                "file": "Electronica/Unidad2/Clase3.pdf",
+                "page": 1,
+                "left": -7,
+                "top": 3,
+                "zoom": 2.0240638704599125
               },
-              "icon": "lucide-file",
-              "title": "Formulas"
+              "icon": "lucide-file-text",
+              "title": "Clase3"
             }
           }
         ]
@@ -214,9 +216,9 @@
   },
   "active": "87069d1559e78ec9",
   "lastOpenFiles": [
+    "Electronica/Unidad1/Formulas.md",
     "Electronica/Unidad2/Clase3.pdf",
     "Electronica/Unidad1/ClaseN2.pdf",
-    "Electronica/Unidad1/Formulas.md",
     "Electronica/Integrales.md",
     "intento1.md",
     "intento 2.md",
