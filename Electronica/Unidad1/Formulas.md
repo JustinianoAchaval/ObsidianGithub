@@ -22,7 +22,7 @@ $$V_{ef}^2 = \frac{1}{T} (V_{ef1}^2 \cdot (\Delta t1) + V_{ef2}^2 \cdot (\Delta 
 
 ![formulas](../Fotos/formulas.png)
 
-$$ Z = R + jX \quad Impedancia$$
+$$ Z = R + jX \quad Impedancia \quad Z= \sqrt{R^2+X^2} $$
 $$  j= X_L - X_C$$
 $$ X_L = wL \quad Ractancia\quad Inductiva$$
 $$ X_C = -\frac1{wC_1} \quad Ractancia \quad Capacitiva$$
