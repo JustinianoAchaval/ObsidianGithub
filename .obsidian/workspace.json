@@ -11,12 +11,16 @@
             "id": "f1f5106751662b5f",
             "type": "leaf",
             "state": {
-              "type": "video",
+              "type": "pdf",
               "state": {
-                "file": "Electronica/Unidad5/Clase_5_Transistores_Bipolares.mp4"
+                "file": "Fisica2/FISICA II GEO - UNIDAD 2.pdf",
+                "page": 5,
+                "left": -15,
+                "top": 339,
+                "zoom": 1.0833333333333333
               },
-              "icon": "lucide-file",
-              "title": "Clase_5_Transistores_Bipolares"
+              "icon": "lucide-file-text",
+              "title": "FISICA II GEO - UNIDAD 2"
             }
           }
         ]
@@ -207,8 +211,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "3a947a6c326dd23e",
+  "active": "f1f5106751662b5f",
   "lastOpenFiles": [
+    "Fisica2/FISICA II GEO - UNIDAD 3 (1).pdf",
+    "Fisica2/FISICA II GEO - UNIDAD 2.pdf",
+    "Electronica/Unidad5/Clase_5_Transistores_Bipolares.mp4",
     "Fisica2/01-CampoEléctrico_Práctico.pdf",
     "Fisica2/Sin confirmar 132922.crdownload",
     "Fisica2/FISICA II GEO - UNIDAD 9 (1).pdf",
@@ -216,10 +223,7 @@
     "Fisica2/FISICA II GEO - UNIDAD 7.pdf",
     "Fisica2/FISICA II GEO - UNIDAD 5.pdf",
     "Fisica2/FISICA II GEO - UNIDAD 4 (1).pdf",
-    "Fisica2/FISICA II GEO - UNIDAD 3 (1).pdf",
-    "Fisica2/FISICA II GEO - UNIDAD 2.pdf",
     "Fisica2",
-    "Electronica/Unidad1/ClaseN2.pdf",
     "intento1.md",
     "intento 2.md",
     "conflict-files-obsidian-git.md",
