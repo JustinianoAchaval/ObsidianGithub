@@ -41,16 +41,14 @@
             "id": "a857892a9c273352",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Electronica/UNC-ELEC-5607_7407-Notas_complementarias 1.pdf",
-                "page": 161,
-                "left": -7,
-                "top": 184,
-                "zoom": 2.0240638704599125
+                "file": "Electronica/Unidad5/Resumen clase 5.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "UNC-ELEC-5607_7407-Notas_complementarias 1"
+              "icon": "lucide-file",
+              "title": "Resumen clase 5"
             }
           }
         ],
@@ -245,26 +243,28 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "a857892a9c273352",
+  "active": "6568aa3798518f2c",
   "lastOpenFiles": [
+    "Fisica2/FISICA II GEO - UNIDAD 9 (1).pdf",
+    "Fisica2/Sin confirmar 307166.crdownload",
+    "Fisica2/FISICA II GEO - UNIDAD 8.pdf",
+    "Fisica2/Sin confirmar 407033.crdownload",
+    "Fisica2/FISICA II GEO - UNIDAD 7.pdf",
+    "Fisica2/Sin confirmar 801458.crdownload",
+    "Fisica2/FISICA II GEO - UNIDAD 5.pdf",
+    "Fisica2/Sin confirmar 193339.crdownload",
+    "Fisica2/FISICA II GEO - UNIDAD 2.pdf",
+    "Fisica2/Sin confirmar 425313.crdownload",
+    "Fisica2/FISICA II GEO - UNIDAD 3 (1).pdf",
+    "conflict-files-obsidian-git.md",
     "Electronica/Unidad5/Resumen clase 5.md",
-    "Electronica/Unidad2/Clase4.pdf",
     "Electronica/Unidad1/Formulas UNIDAD 1.md",
-    "Sin nombre",
-    "Electronica/Unidad5/ClaseN5.pdf",
-    "Electronica/Unidad5",
-    "Electronica/Nueva carpeta",
-    "Electronica/UNC-ELEC-5607_7407-Notas_complementarias 1.pdf",
     "Electronica/Unidad2/FORMULA UNIDAD 2.md",
-    "Electronica/Unidad2/Clase3.pdf",
-    "Electronica/Unidad1/ClaseN2.pdf",
     "Electronica/Integrales.md",
     "intento1.md",
     "intento 2.md",
     "Electronica/Unidad2/Resumen clase 3.md",
     "Electronica/Unidad2/Resumen Clase 4.md",
-    "Electronica/Unidad1/ClaseN1.pdf",
-    "Electronica/Taller y Lab.md",
-    "conflict-files-obsidian-git.md"
+    "Electronica/Taller y Lab.md"
   ]
 }
