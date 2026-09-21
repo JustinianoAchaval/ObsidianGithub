@@ -13,14 +13,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Electronica/Unidad2/Clase4.pdf",
-                "page": 12,
+                "file": "Electronica/Unidad5/ClaseN5.pdf",
+                "page": 3,
                 "left": -9,
-                "top": 89,
+                "top": 240,
                 "zoom": 1.7197928311097297
               },
               "icon": "lucide-file-text",
-              "title": "Clase4"
+              "title": "ClaseN5"
             }
           }
         ]
@@ -213,6 +213,7 @@
   },
   "active": "f1f5106751662b5f",
   "lastOpenFiles": [
+    "Electronica/Unidad2/Clase4.pdf",
     "Electronica/Unidad5/ClaseN5.pdf",
     "Electronica/UNC-ELEC-5607_7407-Notas_complementarias 1.pdf",
     "Electronica/Unidad5/ClaseN6.pdf",
@@ -224,7 +225,6 @@
     "Fisica2/01-CampoEléctrico_Práctico.pdf",
     "Fisica2/Sin confirmar 132922.crdownload",
     "Fisica2/FISICA II GEO - UNIDAD 9 (1).pdf",
-    "Fisica2/FISICA II GEO - UNIDAD 8.pdf",
     "intento1.md",
     "intento 2.md",
     "conflict-files-obsidian-git.md",
