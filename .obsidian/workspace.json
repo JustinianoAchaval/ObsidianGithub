@@ -13,14 +13,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Fisica2/FISICA II GEO - UNIDAD 2.pdf",
-                "page": 15,
-                "left": -15,
-                "top": 202,
-                "zoom": 1.0833333333333333
+                "file": "Electronica/Unidad2/Clase4.pdf",
+                "page": 12,
+                "left": -9,
+                "top": 89,
+                "zoom": 1.7197928311097297
               },
               "icon": "lucide-file-text",
-              "title": "FISICA II GEO - UNIDAD 2"
+              "title": "Clase4"
             }
           }
         ]
@@ -213,17 +213,18 @@
   },
   "active": "f1f5106751662b5f",
   "lastOpenFiles": [
-    "Fisica2/FISICA II GEO - UNIDAD 3 (1).pdf",
+    "Electronica/Unidad5/ClaseN5.pdf",
+    "Electronica/UNC-ELEC-5607_7407-Notas_complementarias 1.pdf",
+    "Electronica/Unidad5/ClaseN6.pdf",
+    "Electronica/Integrales.md",
+    "Electronica/ELECEjv1p16.pdf",
     "Fisica2/FISICA II GEO - UNIDAD 2.pdf",
+    "Fisica2/FISICA II GEO - UNIDAD 3 (1).pdf",
     "Electronica/Unidad5/Clase_5_Transistores_Bipolares.mp4",
     "Fisica2/01-CampoEléctrico_Práctico.pdf",
     "Fisica2/Sin confirmar 132922.crdownload",
     "Fisica2/FISICA II GEO - UNIDAD 9 (1).pdf",
     "Fisica2/FISICA II GEO - UNIDAD 8.pdf",
-    "Fisica2/FISICA II GEO - UNIDAD 7.pdf",
-    "Fisica2/FISICA II GEO - UNIDAD 5.pdf",
-    "Fisica2/FISICA II GEO - UNIDAD 4 (1).pdf",
-    "Fisica2",
     "intento1.md",
     "intento 2.md",
     "conflict-files-obsidian-git.md",
@@ -232,7 +233,6 @@
     "Electronica/Unidad1/Formulas UNIDAD 1.md",
     "Electronica/Unidad2/Resumen Clase 4.md",
     "Electronica/Unidad1/Formulas.md",
-    "Electronica/Integrales.md",
     "Electronica/Taller y Lab.md",
     "Electronica/Unidad2/Resumen clase 3.md",
     "Electronica/Unidad1/Resumen Clase 1.md",
