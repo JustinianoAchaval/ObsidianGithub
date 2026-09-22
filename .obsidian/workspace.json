@@ -29,14 +29,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Electronica/Unidad5/ClaseN5.pdf",
-                "page": 2,
+                "file": "Electronica/Unidad5/ClaseN6.pdf",
+                "page": 1,
                 "left": -7,
-                "top": 81,
+                "top": 41,
                 "zoom": 2.0240638704599125
               },
               "icon": "lucide-file-text",
-              "title": "ClaseN5"
+              "title": "ClaseN6"
             }
           }
         ],
@@ -233,10 +233,10 @@
   },
   "active": "6437329b889b9989",
   "lastOpenFiles": [
+    "Electronica/Unidad5/ClaseN5.pdf",
     "Electronica/Unidad2/Clase4.pdf",
     "Electronica/ELECEjv1p16.pdf",
     "Electronica/Taller y Lab.md",
-    "Electronica/Unidad5/ClaseN5.pdf",
     "Electronica/Unidad5/ClaseN6.pdf",
     "Electronica/Unidad5/Resumen clase 5.md",
     "Fisica2/01-CampoEléctrico_Práctico.pdf",
