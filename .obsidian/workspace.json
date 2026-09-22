@@ -13,14 +13,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Electronica/Unidad5/ClaseN5.pdf",
+                "file": "Electronica/Unidad5/ClaseN6.pdf",
                 "page": 2,
                 "left": -7,
-                "top": 77,
+                "top": 250,
                 "zoom": 2.0240638704599125
               },
               "icon": "lucide-file-text",
-              "title": "ClaseN5"
+              "title": "ClaseN6"
             }
           },
           {
@@ -30,17 +30,16 @@
               "type": "pdf",
               "state": {
                 "file": "Electronica/Primer Parcial/Primer Parcial Teorico Resuelto.pdf",
-                "page": 1,
+                "page": 6,
                 "left": -10,
-                "top": 847,
+                "top": 442,
                 "zoom": 1.5404752832754491
               },
               "icon": "lucide-file-text",
               "title": "Primer Parcial Teorico Resuelto"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -231,19 +230,19 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "6437329b889b9989",
+  "active": "a857892a9c273352",
   "lastOpenFiles": [
-    "Electronica/Primer Parcial/Primer Parcial COMPLETO.pdf",
+    "Electronica/Unidad5/ClaseN5.pdf",
+    "Electronica/Unidad5/ClaseN6.pdf",
     "Electronica/Primer Parcial/Primer Parcial Teorico Resuelto.pdf",
+    "Electronica/Primer Parcial/Primer Parcial COMPLETO.pdf",
     "Electronica/Primer Parcial/Sin confirmar 905365.crdownload",
     "Electronica/Resumenes/Teórico Electrónica.pdf",
     "Electronica/Resumenes/Fórmulas electrónica.pdf",
-    "Electronica/Unidad5/ClaseN6.pdf",
     "Electronica/Unidad5/Clase_6__CC_a_CA_en_BJT.mp4",
     "Electronica/Unidad5/Sin confirmar 680150.crdownload",
     "Electronica/Primer Parcial/Sin confirmar 796188.crdownload",
     "Electronica/Primer Parcial",
-    "Electronica/Nueva carpeta",
     "Electronica/Taller y Lab.md",
     "Electronica/Unidad5/Resumen clase 5.md",
     "conflict-files-obsidian-git.md",
