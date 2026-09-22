@@ -29,14 +29,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Electronica/Primer Parcial/Primer Parcial COMPLETO.pdf",
+                "file": "Electronica/Primer Parcial/Primer Parcial Teorico Resuelto.pdf",
                 "page": 1,
-                "left": -4,
-                "top": 872,
-                "zoom": 1.7023643949930458
+                "left": -10,
+                "top": 847,
+                "zoom": 1.5404752832754491
               },
               "icon": "lucide-file-text",
-              "title": "Primer Parcial COMPLETO"
+              "title": "Primer Parcial Teorico Resuelto"
             }
           }
         ],
@@ -231,19 +231,19 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "6568aa3798518f2c",
+  "active": "6437329b889b9989",
   "lastOpenFiles": [
+    "Electronica/Primer Parcial/Primer Parcial COMPLETO.pdf",
+    "Electronica/Primer Parcial/Primer Parcial Teorico Resuelto.pdf",
+    "Electronica/Primer Parcial/Sin confirmar 905365.crdownload",
     "Electronica/Resumenes/Teórico Electrónica.pdf",
     "Electronica/Resumenes/Fórmulas electrónica.pdf",
     "Electronica/Unidad5/ClaseN6.pdf",
     "Electronica/Unidad5/Clase_6__CC_a_CA_en_BJT.mp4",
     "Electronica/Unidad5/Sin confirmar 680150.crdownload",
-    "Electronica/Primer Parcial/Primer Parcial COMPLETO.pdf",
     "Electronica/Primer Parcial/Sin confirmar 796188.crdownload",
     "Electronica/Primer Parcial",
     "Electronica/Nueva carpeta",
-    "Electronica/Unidad5/ClaseN5.pdf",
-    "Electronica/Unidad2/Clase4.pdf",
     "Electronica/Taller y Lab.md",
     "Electronica/Unidad5/Resumen clase 5.md",
     "conflict-files-obsidian-git.md",
