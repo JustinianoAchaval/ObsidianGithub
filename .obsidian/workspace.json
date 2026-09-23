@@ -13,36 +13,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Electronica/Primer Parcial/Primer Parcial COMPLETO.pdf",
+                "file": "Electronica/ELECEjv1p16.pdf",
                 "page": 1,
-                "left": 347,
-                "top": 872,
-                "zoom": 1.023643949930459
+                "left": -8,
+                "top": 846,
+                "zoom": 1.920117726903151
               },
               "icon": "lucide-file-text",
-              "title": "Primer Parcial COMPLETO"
-            }
-          }
-        ]
-      },
-      {
-        "id": "27b984308d4309bd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6437329b889b9989",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Electronica/Primer Parcial/Primer Parcial Teorico Resuelto.pdf",
-                "page": 6,
-                "left": -17,
-                "top": 738,
-                "zoom": 0.9262988631460216
-              },
-              "icon": "lucide-file-text",
-              "title": "Primer Parcial Teorico Resuelto"
+              "title": "ELECEjv1p16"
             }
           }
         ]
@@ -239,10 +217,10 @@
   },
   "active": "a857892a9c273352",
   "lastOpenFiles": [
+    "Electronica/Primer Parcial/Primer Parcial COMPLETO.pdf",
     "Electronica/Primer Parcial/Primer Parcial Teorico Resuelto.pdf",
     "Electronica/Unidad5/ClaseN6.pdf",
     "Electronica/Unidad5/ClaseN5.pdf",
-    "Electronica/Primer Parcial/Primer Parcial COMPLETO.pdf",
     "Electronica/Primer Parcial/Sin confirmar 905365.crdownload",
     "Electronica/Resumenes/Teórico Electrónica.pdf",
     "Electronica/Resumenes/Fórmulas electrónica.pdf",
