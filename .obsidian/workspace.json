@@ -15,7 +15,9 @@
               "state": {
                 "file": "Electronica/Unidad2/Clase4.pdf",
                 "page": 1,
-                "zoom": 1
+                "left": -9,
+                "top": 64,
+                "zoom": 1.7197928311097297
               },
               "icon": "lucide-file-text",
               "title": "Clase4"
@@ -209,8 +211,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "f1f5106751662b5f",
+  "active": "3a947a6c326dd23e",
   "lastOpenFiles": [
+    "Electronica/Unidad5/Clase_6__CC_a_CA_en_BJT.mp4",
+    "Electronica/Primer Parcial/Primer Parcial Teorico Resuelto.pdf",
+    "Electronica/Primer Parcial/Primer Parcial COMPLETO.pdf",
+    "Electronica/Primer Parcial",
     "Electronica/Unidad2/Clase_4__Análisis_Avanzado_de_Diodos.mp4",
     "Electronica/Unidad5/ClaseN5.pdf",
     "Electronica/Unidad2/Clase4.pdf",
@@ -219,10 +225,6 @@
     "Electronica/Integrales.md",
     "Electronica/ELECEjv1p16.pdf",
     "Fisica2/FISICA II GEO - UNIDAD 2.pdf",
-    "Fisica2/FISICA II GEO - UNIDAD 3 (1).pdf",
-    "Electronica/Unidad5/Clase_5_Transistores_Bipolares.mp4",
-    "Fisica2/01-CampoEléctrico_Práctico.pdf",
-    "Fisica2/Sin confirmar 132922.crdownload",
     "intento1.md",
     "intento 2.md",
     "conflict-files-obsidian-git.md",
