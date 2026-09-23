@@ -11,14 +11,16 @@
             "id": "f1f5106751662b5f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Electronica/Integrales.md",
-                "mode": "source",
-                "source": false
+                "file": "Electronica/ELECEjv1p16.pdf",
+                "page": 2,
+                "left": -11,
+                "top": 607,
+                "zoom": 1.3103165590415204
               },
-              "icon": "lucide-file",
-              "title": "Integrales"
+              "icon": "lucide-file-text",
+              "title": "ELECEjv1p16"
             }
           }
         ]
@@ -211,8 +213,8 @@
   },
   "active": "f1f5106751662b5f",
   "lastOpenFiles": [
-    "Electronica/ELECEjv1p16.pdf",
     "Electronica/Integrales.md",
+    "Electronica/ELECEjv1p16.pdf",
     "Electronica/Unidad1/Formulas UNIDAD 1.md",
     "Electronica/Unidad2/Clase4.pdf",
     "conflict-files-obsidian-git.md",
