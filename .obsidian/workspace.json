@@ -15,14 +15,20 @@
               "state": {
                 "file": "Electronica/Primer Parcial/Primer Parcial COMPLETO.pdf",
                 "page": 1,
-                "left": -9,
+                "left": 347,
                 "top": 872,
-                "zoom": 1.702364394993046
+                "zoom": 1.023643949930459
               },
               "icon": "lucide-file-text",
               "title": "Primer Parcial COMPLETO"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "27b984308d4309bd",
+        "type": "tabs",
+        "children": [
           {
             "id": "6437329b889b9989",
             "type": "leaf",
@@ -31,9 +37,9 @@
               "state": {
                 "file": "Electronica/Primer Parcial/Primer Parcial Teorico Resuelto.pdf",
                 "page": 6,
-                "left": -10,
-                "top": 442,
-                "zoom": 1.5404752832754491
+                "left": -17,
+                "top": 738,
+                "zoom": 0.9262988631460216
               },
               "icon": "lucide-file-text",
               "title": "Primer Parcial Teorico Resuelto"
@@ -213,7 +219,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
