@@ -11,14 +11,16 @@
             "id": "f1f5106751662b5f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Electronica/Taller y Lab.md",
-                "mode": "source",
-                "source": false
+                "file": "Electronica/Unidad4/ClaseN7.pdf",
+                "page": 1,
+                "left": -9,
+                "top": 259,
+                "zoom": 1.7197928311097297
               },
-              "icon": "lucide-file",
-              "title": "Taller y Lab"
+              "icon": "lucide-file-text",
+              "title": "ClaseN7"
             }
           }
         ]
@@ -211,8 +213,14 @@
   },
   "active": "f1f5106751662b5f",
   "lastOpenFiles": [
-    "Electronica/Unidad1/Formulas UNIDAD 1.md",
+    "Electronica/UNC-ELEC-5607_7407-Notas_complementarias 1.pdf",
+    "Electronica/Unidad4/ClaseN7.pdf",
+    "Electronica/Unidad4",
+    "Electronica/Nueva carpeta",
+    "Electronica/Unidad5/ClaseN6.pdf",
     "Electronica/ELECEjv1p16.pdf",
+    "Electronica/Taller y Lab.md",
+    "Electronica/Unidad1/Formulas UNIDAD 1.md",
     "Electronica/Integrales.md",
     "Electronica/Unidad2/Clase4.pdf",
     "conflict-files-obsidian-git.md",
@@ -220,17 +228,12 @@
     "Electronica/Primer Parcial/Primer Parcial Teorico Resuelto.pdf",
     "Electronica/Primer Parcial/Primer Parcial COMPLETO.pdf",
     "Electronica/Primer Parcial",
-    "Electronica/Unidad2/Clase_4__Análisis_Avanzado_de_Diodos.mp4",
-    "Electronica/Unidad5/ClaseN5.pdf",
-    "Electronica/UNC-ELEC-5607_7407-Notas_complementarias 1.pdf",
-    "Electronica/Unidad5/ClaseN6.pdf",
     "intento1.md",
     "intento 2.md",
     "Electronica/Unidad2/FORMULA UNIDAD 2.md",
     "Electronica/Unidad5/Resumen clase 5.md",
     "Electronica/Unidad2/Resumen Clase 4.md",
     "Electronica/Unidad1/Formulas.md",
-    "Electronica/Taller y Lab.md",
     "Electronica/Unidad2/Resumen clase 3.md",
     "Electronica/Unidad1/Resumen Clase 1.md",
     "Electronica/Unidad1/NotasClase2.md",
