@@ -11,16 +11,14 @@
             "id": "a857892a9c273352",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Electronica/ELECEjv1p16.pdf",
-                "page": 1,
-                "left": -8,
-                "top": 846,
-                "zoom": 1.920117726903151
+                "file": "Fisica2/2doParcial/Campo Magnetico.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "ELECEjv1p16"
+              "icon": "lucide-file",
+              "title": "Campo Magnetico"
             }
           }
         ]
@@ -197,8 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,6 +214,9 @@
   },
   "active": "a857892a9c273352",
   "lastOpenFiles": [
+    "Electronica/ELECEjv1p16.pdf",
+    "Fisica2/2doParcial/Campo Magnetico.md",
+    "Fisica2/2doParcial",
     "Electronica/Primer Parcial/Primer Parcial COMPLETO.pdf",
     "Electronica/Primer Parcial/Primer Parcial Teorico Resuelto.pdf",
     "Electronica/Unidad5/ClaseN6.pdf",
@@ -226,8 +226,6 @@
     "Electronica/Resumenes/Fórmulas electrónica.pdf",
     "Electronica/Unidad5/Clase_6__CC_a_CA_en_BJT.mp4",
     "Electronica/Unidad5/Sin confirmar 680150.crdownload",
-    "Electronica/Primer Parcial/Sin confirmar 796188.crdownload",
-    "Electronica/Primer Parcial",
     "Electronica/Taller y Lab.md",
     "Electronica/Unidad5/Resumen clase 5.md",
     "conflict-files-obsidian-git.md",
