@@ -109,33 +109,3 @@ int main() {
 }
 ```
 
-### 📝 Ejercicio 7 (Tu primera prueba de escritorio con `while`)
-
-Seguí este código vuelta por vuelta (como hice yo recién arriba) y respondé las dos preguntas:
-
-C++
-
-```c++
-#include <iostream>
-using namespace std;
-
-int main()
-{
-    int x = 2;
-    int suma = 0;
-
-    while (x <= 6)
-    {
-        suma = suma + x; // 2 , 6, 12
-        x = x + 2; // 4 , 6 , 8
-    }
-
-    cout << "Suma final: " << suma << endl;
-    cout << "Valor final de x: " << x << endl;
-    return 0;
-}
-```
-
-1. ¿Cuántas vueltas (iteraciones) da el ciclo `while` en total? 3
-    
-2. ¿Qué valores imprime al final para **`suma`** y para **`x`**? (¡Ojo con qué valor queda `x` justo cuando logra escapar del `while`!). suma = 12 y x = 8
