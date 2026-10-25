@@ -116,3 +116,9 @@ for (int i = 0; i < 5; i++)
 En los arreglos básicos de C++ (los que evalúan en tu parcial), **no se puede eliminar físicamente un casillero** porque la memoria reservada es fija. Si querés "borrar" o limpiar un dato en tus ejercicios de la materia, simplemente lo sobrescribís con un `0` (tal cual hacía la función `resetear` con `x[pos] = 0;`).
 
 (Nota de color: El libro menciona al final del Capítulo 11 una herramienta avanzada llamada `vector` de la librería STL que sí permite estirar la lista con `.push_back()` o `.insert()`, pero en las diapositivas de tu cátedra y en Cálculo Numérico trabajan pura y exclusivamente con los **arreglos clásicos con corchetes `[]`** y ciclos `for`).
+
+### Global vs. Local
+
+- **Variables Locales:** Son las que declarás **adentro** de una función (por ejemplo, adentro de `main()` o adentro de `f()`) y solo viven ahí adentro.
+    
+- **Variables Globales:** Son las que se declaran **afuera y arriba de todas las funciones** (justo debajo de `using namespace std;`). Como viven "afuera de todo", **cualquier función puede verlas y modificarlas directamente** sin que se las pases por parámetro ni uses `&`.
