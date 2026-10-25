@@ -106,7 +106,7 @@ void procesar(int a, int &b, int arr[], int tam)
     b = b + (global / 4); // b = y = 6
     global = global + 2; // global = 12
 
-    for (int i = 0; i < tam; i++) // 0<3, 1<3, 2<3, 
+    for (int i = 0; i < tam; i++) // 0<3, 1<3, 2<3 
     {
         if (i == 1) 
         {
@@ -119,7 +119,7 @@ void procesar(int a, int &b, int arr[], int tam)
         } 
         else 
         {
-            arr[i] = arr[i] + 1;
+            arr[i] = arr[i] + 1; // datos[] = {4, 6, 6}
         }
     }
 }
@@ -143,10 +143,10 @@ int main()
 
 #### Tus desafíos para resolver:
 
-1. **Valor de `x`:** ¿Qué imprime en `"x: "`? (Fijate cómo la recibe `a` en la función).
+1. **Valor de `x`:** ¿Qué imprime en `"x: "`? (Fijate cómo la recibe `a` en la función). x = 3
     
-2. **Valor de `y`:** ¿Qué imprime en `"y: "`? (¡Cuidado con cuánto da la división entera `global / 4` cuando `global` vale `10`, y fijate que `b` tiene el `&`!).
+2. **Valor de `y`:** ¿Qué imprime en `"y: "`? (¡Cuidado con cuánto da la división entera `global / 4` cuando `global` vale `10`, y fijate que `b` tiene el `&`!). y = 6
     
-3. **Valor de `global`:** ¿Con qué valor termina e imprime la variable `"global: "`?
+3. **Valor de `global`:** ¿Con qué valor termina e imprime la variable `"global: "`? global = 12
     
-4. **Valores del `arreglo`:** Seguí las 3 vueltas del ciclo `for` (`i = 0`, `i = 1`, `i = 2`) y decime cómo queda e imprime `"arreglo: "` (`datos[0] - datos[1] - datos[2]`). _(¡Ojo con lo que hace el `continue` cuando `i == 1`!)_.
+4. **Valores del `arreglo`:** Seguí las 3 vueltas del ciclo `for` (`i = 0`, `i = 1`, `i = 2`) y decime cómo queda e imprime `"arreglo: "` (`datos[0] - datos[1] - datos[2]`). _(¡Ojo con lo que hace el `continue` cuando `i == 1`!)_.  4 - 6 - 6
