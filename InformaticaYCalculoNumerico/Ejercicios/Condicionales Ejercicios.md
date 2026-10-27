@@ -2,9 +2,7 @@
 
 Seguí este código paso a paso y respondé las dos preguntas:
 
-C++
-
-```
+```c++
 #include <iostream>
 using namespace std;
 
@@ -32,6 +30,6 @@ int main()
 }
 ```
 
-1. Sabiendo que `opcion` vale `2` y que **en el `case 2:` no hay un `break`**, ¿qué valor imprime exactamente en `"Total final: "`?
+1. Sabiendo que `opcion` vale `2` y que **en el `case 2:` no hay un `break`**, ¿qué valor imprime exactamente en `"Total final: "`? 40
     
-2. ¿Qué imprimiría en `"Total final: "` si al principio cambiáramos `int opcion = 2;` por `int opcion = 9;`?
+2. ¿Qué imprimiría en `"Total final: "` si al principio cambiáramos `int opcion = 2;` por `int opcion = 9;`? 0
