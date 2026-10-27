@@ -4,9 +4,7 @@ Funciona muy parecido a un `if`, pero con una diferencia: cuando termina de ejec
 
 Mirá este ejemplo paso a paso:
 
-C++
-
-```
+```c++
 #include <iostream>
 using namespace std;
 
