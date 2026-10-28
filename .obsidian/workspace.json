@@ -11,14 +11,16 @@
             "id": "a857892a9c273352",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "InformaticaYCalculoNumerico/Ejercicios/Condicionales Ejercicios.md",
-                "mode": "source",
-                "source": false
+                "file": "Electronica/UNC-ELEC-5607_7407-Notas_complementarias 1.pdf",
+                "page": 4,
+                "left": -7,
+                "top": 170,
+                "zoom": 2.0240638704599125
               },
-              "icon": "lucide-file",
-              "title": "Condicionales Ejercicios"
+              "icon": "lucide-file-text",
+              "title": "UNC-ELEC-5607_7407-Notas_complementarias 1"
             }
           }
         ]
@@ -214,8 +216,8 @@
   },
   "active": "a857892a9c273352",
   "lastOpenFiles": [
-    "InformaticaYCalculoNumerico/Ejercicios/Condicionales.md",
     "InformaticaYCalculoNumerico/Ejercicios/Condicionales Ejercicios.md",
+    "InformaticaYCalculoNumerico/Ejercicios/Condicionales.md",
     "InformaticaYCalculoNumerico/Ejercicios/Matriz.md",
     "InformaticaYCalculoNumerico/Ejercicios/Funciones.md",
     "InformaticaYCalculoNumerico/Ejercicios/Bucles.md",
