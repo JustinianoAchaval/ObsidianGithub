@@ -1,41 +1,56 @@
 {
   "main": {
-    "id": "788769965199a8c6",
+    "id": "d920312d30e85b0c",
     "type": "split",
     "children": [
       {
-        "id": "dcfcdaaa6337644f",
+        "id": "c6870d0f38835e4c",
         "type": "tabs",
         "children": [
           {
-            "id": "a857892a9c273352",
+            "id": "4ae83c441b34cfc0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Electronica/UNC-ELEC-5607_7407-Notas_complementarias 1.pdf",
-                "page": 1,
-                "zoom": 1
+                "file": "InformaticaYCalculoNumerico/Ejercicios/Bucles.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "UNC-ELEC-5607_7407-Notas_complementarias 1"
+              "icon": "lucide-file",
+              "title": "Bucles"
+            }
+          },
+          {
+            "id": "03d0c89f2e230d4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "InformaticaYCalculoNumerico/Ejercicios/Bucles.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bucles"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "570d915d07bd465a",
+    "id": "e4de19b048f18276",
     "type": "split",
     "children": [
       {
-        "id": "6ba0ef9a1b429158",
+        "id": "52d4b84c89735247",
         "type": "tabs",
         "children": [
           {
-            "id": "6568aa3798518f2c",
+            "id": "6580b5ef67b00498",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -50,7 +65,7 @@
             }
           },
           {
-            "id": "00cf19c050a06d04",
+            "id": "004a57002b791c3d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,14 +82,11 @@
             }
           },
           {
-            "id": "95ff747e8d1deb99",
+            "id": "a53267c7f11ee51d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {
-                "showSearch": false,
-                "searchQuery": ""
-              },
+              "state": {},
               "icon": "lucide-bookmark",
               "title": "Marcadores"
             }
@@ -83,23 +95,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "013f7c17898f1c98",
+    "id": "2d0578f139d12586",
     "type": "split",
     "children": [
       {
-        "id": "4828bcb39b68df38",
+        "id": "bf6f86c49fe2b8c3",
         "type": "tabs",
         "children": [
           {
-            "id": "6a12c7796264917b",
+            "id": "06b0ef81debda494",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronica/Integrales.md",
+                "file": "final mis respuestas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,25 +121,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "title": "Enlaces entrantes de final mis respuestas"
             }
           },
           {
-            "id": "d77ddc6f3c1e0516",
+            "id": "45764633fe2ce009",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronica/Integrales.md",
+                "file": "final mis respuestas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes"
+              "title": "Enlaces salientes de final mis respuestas"
             }
           },
           {
-            "id": "066d894689daef5d",
+            "id": "2b88eb029701c24e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -142,7 +154,7 @@
             }
           },
           {
-            "id": "f6e4bb9cee1c8e6c",
+            "id": "4ea006d5e46e36ae",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -156,22 +168,22 @@
             }
           },
           {
-            "id": "c9c10b7498835489",
+            "id": "47df3bb11ca6fa24",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronica/Integrales.md",
+                "file": "final mis respuestas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema"
+              "title": "Esquema de final mis respuestas"
             }
           },
           {
-            "id": "70a4f178bd95c768",
+            "id": "c399fbbf29d59d86",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -181,7 +193,7 @@
             }
           },
           {
-            "id": "5b03b4ec61f64857",
+            "id": "3a947a6c326dd23e",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -195,7 +207,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,39 +224,53 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "a857892a9c273352",
+  "active": "03d0c89f2e230d4b",
   "lastOpenFiles": [
-    "InformaticaYCalculoNumerico/Ejercicios/Condicionales Ejercicios.md",
-    "InformaticaYCalculoNumerico/Ejercicios/Condicionales.md",
-    "InformaticaYCalculoNumerico/Ejercicios/Matriz.md",
     "InformaticaYCalculoNumerico/Ejercicios/Funciones.md",
-    "InformaticaYCalculoNumerico/Ejercicios/Bucles.md",
-    "InformaticaYCalculoNumerico/Ejercicios/Bucles Ejercicios.md",
-    "InformaticaYCalculoNumerico/Ejercicios/Introduccion.md",
-    "Fisica2/2doParcial/Campo Magnetico.md",
-    "conflict-files-obsidian-git.md",
+    "InformaticaYCalculoNumerico/Ejercicios/Condicionales.md",
+    "InformaticaYCalculoNumerico/Ejercicios/Condicionales Ejercicios.md",
+    "InformaticaYCalculoNumerico/Ejercicios/Matriz.md",
     "InformaticaYCalculoNumerico/Ejercicios/Matriz Ejercicio.md",
     "InformaticaYCalculoNumerico/Ejercicios/Funciones Ejercicios.md",
-    "InformaticaYCalculoNumerico/Ejercicios",
-    "Electronica/Unidad4/ClaseN7.pdf",
-    "Electronica/Unidad4",
     "Electronica/Unidad2/intento1.md",
     "Electronica/Unidad2/intento 2.md",
-    "Electronica/UNC-ELEC-5607_7407-Notas_complementarias 1.pdf",
-    "Electronica/Taller y Lab.md",
-    "Electronica/Integrales.md",
-    "Electronica/ELECEjv1p16.pdf",
+    "InformaticaYCalculoNumerico/Ejercicios/Bucles Ejercicios.md",
+    "InformaticaYCalculoNumerico/Ejercicios/Bucles.md",
+    "InformaticaYCalculoNumerico/Ejercicios/Introduccion.md",
+    "conflict-files-obsidian-git.md",
+    "InformaticaYCalculoNumerico/C++_para_programadores.mp4",
+    "InformaticaYCalculoNumerico/Ejercicios",
+    "Electronica/Unidad4/ClaseN7.pdf",
+    "InformaticaYCalculoNumerico/Clases/Clase 9.pptx",
+    "InformaticaYCalculoNumerico/Clases/Clase 8.pptx",
     "InformaticaYCalculoNumerico/Clases/Clase 14.pptx",
-    "InformaticaYCalculoNumerico/Clases/Sin confirmar 33458.crdownload",
     "InformaticaYCalculoNumerico/Clases/Clase 13.pptx",
-    "InformaticaYCalculoNumerico/Clases/Sin confirmar 274168.crdownload",
     "InformaticaYCalculoNumerico/Clases/Clase 11.pptx",
-    "Electronica/Unidad5/Resumen clase 5.md",
+    "InformaticaYCalculoNumerico/Clases/Clase 10.pptx",
+    "Fisica2/2doParcial/Campo Magnetico.md",
+    "Fisica2/2doParcial",
+    "Electronica/Taller y Lab.md",
     "Electronica/Unidad1/Formulas UNIDAD 1.md",
+    "Electronica/Integrales.md",
     "Electronica/Unidad2/FORMULA UNIDAD 2.md",
-    "intento1.md",
-    "intento 2.md",
+    "Electronica/Unidad5/Resumen clase 5.md",
+    "Electronica/Unidad2/Resumen Clase 4.md",
+    "Electronica/Unidad1/Formulas.md",
     "Electronica/Unidad2/Resumen clase 3.md",
-    "Electronica/Unidad2/Resumen Clase 4.md"
+    "Electronica/Unidad1/Resumen Clase 1.md",
+    "Electronica/Unidad1/NotasClase2.md",
+    "Electronica/Unidad1/Resumen Clase 2.md",
+    "Electronica/Fotos/formulas.png",
+    "Electronica/Fotos/{4429C4EE-DFF5-4E7D-A1C9-2E528237676A}.png",
+    "InformaticaAvanzada/Final.md",
+    "2026-08-19.md",
+    "InformaticaAvanzada/capturas/{BD808C40-AA11-49E3-9E0B-C115CB51F499}.png",
+    "InformaticaAvanzada/capturas/{584DF7B4-36C5-4325-89B4-308C8E7B5DCE}.png",
+    "InformaticaAvanzada/capturas/{C3E0AE04-AFEB-4AA0-BBEE-C200BF001285}.png",
+    "InformaticaAvanzada/capturas/{7F44B27A-7BE9-4552-8F4F-472A889E7991}.png",
+    "InformaticaAvanzada/capturas/{0A317636-2B0E-49DF-8EF2-65C6576AE201}.png",
+    "InformaticaAvanzada/capturas/{16B7F6BE-FE08-490C-96E4-509025286AD4}.png",
+    "InformaticaAvanzada/capturas/{862D40BF-102F-4A0E-8BFE-732A81ABA7AF}.png",
+    "Sin título.canvas"
   ]
 }
