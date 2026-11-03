@@ -43,9 +43,7 @@ int main()
 
 En tus diapositivas muestran que cualquier `while` con contador tiene 3 partes: **1) Inicializar el contador**, **2) Condición de corte**, y **3) Actualizar/incrementar el contador**. El ciclo **`for`** simplemente agrupa esas 3 cosas en un solo renglón entre paréntesis, separadas por punto y coma (`;`):
 
-C++
-
-```
+```c++
 for (int i = 0; i <= N; i++)
 {
     sum += i;
@@ -89,9 +87,7 @@ En las diapositivas de tu comisión analizan un mismo código cambiando `break` 
 
 Mirá el ejemplo de `break` de tu diapositiva:
 
-C++
-
-```
+```c++
 int N = 5;
 for (int i = 0; i < N; i++)
 {
