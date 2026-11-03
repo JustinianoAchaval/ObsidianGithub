@@ -25,16 +25,14 @@
             "id": "03d0c89f2e230d4b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Electronica/UNC-ELEC-5607_7407-Notas_complementarias 1.pdf",
-                "page": 108,
-                "left": -9,
-                "top": 8,
-                "zoom": 1.7197928311097297
+                "file": "Electronica/Segundo Parcial/Resumen JFET.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "UNC-ELEC-5607_7407-Notas_complementarias 1"
+              "icon": "lucide-file",
+              "title": "Resumen JFET"
             }
           }
         ],
@@ -228,6 +226,13 @@
   },
   "active": "03d0c89f2e230d4b",
   "lastOpenFiles": [
+    "Electronica/Primer Parcial/Primer Parcial Teorico Resuelto.pdf",
+    "Electronica/Primer Parcial/Primer Parcial COMPLETO.pdf",
+    "Electronica/UNC-ELEC-5607_7407-Notas_complementarias 1.pdf",
+    "Electronica/Segundo Parcial/Resumen JFET.md",
+    "Electronica/Segundo Parcial/Sin confirmar 326532.crdownload",
+    "Electronica/Segundo Parcial",
+    "Electronica/Nueva carpeta",
     "Electronica/ELECEjv1p16.pdf",
     "InformaticaYCalculoNumerico/Ejercicios/Bucles.md",
     "InformaticaYCalculoNumerico/Ejercicios/Funciones.md",
@@ -245,13 +250,7 @@
     "InformaticaYCalculoNumerico/Ejercicios",
     "Electronica/Unidad4/ClaseN7.pdf",
     "InformaticaYCalculoNumerico/Clases/Clase 9.pptx",
-    "InformaticaYCalculoNumerico/Clases/Clase 8.pptx",
-    "InformaticaYCalculoNumerico/Clases/Clase 14.pptx",
-    "InformaticaYCalculoNumerico/Clases/Clase 13.pptx",
-    "InformaticaYCalculoNumerico/Clases/Clase 11.pptx",
-    "InformaticaYCalculoNumerico/Clases/Clase 10.pptx",
     "Fisica2/2doParcial/Campo Magnetico.md",
-    "Fisica2/2doParcial",
     "Electronica/Taller y Lab.md",
     "Electronica/Unidad1/Formulas UNIDAD 1.md",
     "Electronica/Integrales.md",
@@ -265,7 +264,6 @@
     "Electronica/Unidad1/Resumen Clase 2.md",
     "Electronica/Fotos/formulas.png",
     "Electronica/Fotos/{4429C4EE-DFF5-4E7D-A1C9-2E528237676A}.png",
-    "InformaticaAvanzada/Final.md",
     "InformaticaAvanzada/capturas/{BD808C40-AA11-49E3-9E0B-C115CB51F499}.png",
     "InformaticaAvanzada/capturas/{584DF7B4-36C5-4325-89B4-308C8E7B5DCE}.png",
     "InformaticaAvanzada/capturas/{C3E0AE04-AFEB-4AA0-BBEE-C200BF001285}.png",
