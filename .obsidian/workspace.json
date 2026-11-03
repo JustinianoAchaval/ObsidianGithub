@@ -25,14 +25,16 @@
             "id": "03d0c89f2e230d4b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "InformaticaYCalculoNumerico/Ejercicios/Bucles.md",
-                "mode": "source",
-                "source": false
+                "file": "Electronica/UNC-ELEC-5607_7407-Notas_complementarias 1.pdf",
+                "page": 108,
+                "left": -9,
+                "top": 8,
+                "zoom": 1.7197928311097297
               },
-              "icon": "lucide-file",
-              "title": "Bucles"
+              "icon": "lucide-file-text",
+              "title": "UNC-ELEC-5607_7407-Notas_complementarias 1"
             }
           }
         ],
@@ -226,6 +228,8 @@
   },
   "active": "03d0c89f2e230d4b",
   "lastOpenFiles": [
+    "Electronica/ELECEjv1p16.pdf",
+    "InformaticaYCalculoNumerico/Ejercicios/Bucles.md",
     "InformaticaYCalculoNumerico/Ejercicios/Funciones.md",
     "InformaticaYCalculoNumerico/Ejercicios/Condicionales.md",
     "InformaticaYCalculoNumerico/Ejercicios/Condicionales Ejercicios.md",
@@ -235,7 +239,6 @@
     "Electronica/Unidad2/intento1.md",
     "Electronica/Unidad2/intento 2.md",
     "InformaticaYCalculoNumerico/Ejercicios/Bucles Ejercicios.md",
-    "InformaticaYCalculoNumerico/Ejercicios/Bucles.md",
     "InformaticaYCalculoNumerico/Ejercicios/Introduccion.md",
     "conflict-files-obsidian-git.md",
     "InformaticaYCalculoNumerico/C++_para_programadores.mp4",
@@ -263,7 +266,6 @@
     "Electronica/Fotos/formulas.png",
     "Electronica/Fotos/{4429C4EE-DFF5-4E7D-A1C9-2E528237676A}.png",
     "InformaticaAvanzada/Final.md",
-    "2026-08-19.md",
     "InformaticaAvanzada/capturas/{BD808C40-AA11-49E3-9E0B-C115CB51F499}.png",
     "InformaticaAvanzada/capturas/{584DF7B4-36C5-4325-89B4-308C8E7B5DCE}.png",
     "InformaticaAvanzada/capturas/{C3E0AE04-AFEB-4AA0-BBEE-C200BF001285}.png",
