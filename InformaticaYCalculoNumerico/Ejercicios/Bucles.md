@@ -63,9 +63,7 @@ A diferencia de `while` y `for` (que preguntan la condición _antes_ de entrar),
 - **¿Para qué sirve?** Garantiza que el cuerpo del ciclo se ejecute **al menos una vez**. Se usa mucho para pedirle un dato al usuario y validarlo (y se usa muchísimo en el método de Bisección en Cálculo Numérico):
     
 
-C++
-
-```
+```c++
 int n;
 do 
 {
