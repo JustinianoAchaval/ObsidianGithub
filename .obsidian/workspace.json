@@ -11,16 +11,14 @@
             "id": "03d0c89f2e230d4b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "InformaticaYCalculoNumerico/Libros/Cpp para ingeniería y ciencias, 2da Ed.pdf",
-                "page": 1,
-                "left": 686,
-                "top": 702,
-                "zoom": 1.450207677176334
+                "file": "InformaticaYCalculoNumerico/CalculoNumerico/Modelado, Teoría de Errores y Serie de Taylor.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Cpp para ingeniería y ciencias, 2da Ed"
+              "icon": "lucide-file",
+              "title": "Modelado, Teoría de Errores y Serie de Taylor"
             }
           }
         ]
@@ -213,16 +211,20 @@
   },
   "active": "03d0c89f2e230d4b",
   "lastOpenFiles": [
+    "InformaticaYCalculoNumerico/CalculoNumerico/Calculo Numérico Guia.md",
+    "InformaticaYCalculoNumerico/CalculoNumerico/Modelado, Teoría de Errores y Serie de Taylor.md",
+    "InformaticaYCalculoNumerico/CalculoNumerico",
+    "InformaticaYCalculoNumerico/Ejercicios/Funciones.md",
+    "InformaticaYCalculoNumerico/fcefyn.aulavirtual.unc.edu.ar_mod_quiz_attempt.php_attempt=157568&cmid=107012&page=1.png",
     "InformaticaYCalculoNumerico/fcefyn.aulavirtual.unc.edu.ar_mod_quiz_attempt.php_attempt=157568&cmid=107012.png",
+    "InformaticaYCalculoNumerico/Libros/Cpp para ingeniería y ciencias, 2da Ed.pdf",
     "InformaticaYCalculoNumerico/C++_para_programadores.mp4",
     "InformaticaYCalculoNumerico/Ejercicios/Bucles.md",
     "Electronica/Unidad1/ClaseN1.pdf",
     "Electronica/Unidad1/Formulas UNIDAD 1.md",
     "Electronica/Resumenes/Teórico Electrónica.pdf",
     "Electronica/Resumenes/Fórmulas electrónica.pdf",
-    "InformaticaYCalculoNumerico/Ejercicios/Funciones.md",
     "InformaticaYCalculoNumerico/Ejercicios/Matriz.md",
-    "InformaticaYCalculoNumerico/fcefyn.aulavirtual.unc.edu.ar_mod_quiz_attempt.php_attempt=157568&cmid=107012&page=1.png",
     "Electronica/Segundo Parcial/Resumen JFET.md",
     "Electronica/Segundo Parcial/JFEET.md",
     "Electronica/Segundo Parcial/Clase 8,9y10.md",
@@ -232,8 +234,6 @@
     "Electronica/Primer Parcial/Primer Parcial COMPLETO.pdf",
     "Electronica/UNC-ELEC-5607_7407-Notas_complementarias 1.pdf",
     "Electronica/Segundo Parcial/Sin confirmar 326532.crdownload",
-    "Electronica/Segundo Parcial",
-    "Electronica/Nueva carpeta",
     "InformaticaYCalculoNumerico/Ejercicios/Condicionales.md",
     "InformaticaYCalculoNumerico/Ejercicios/Condicionales Ejercicios.md",
     "InformaticaYCalculoNumerico/Ejercicios/Matriz Ejercicio.md",
@@ -249,7 +249,6 @@
     "Electronica/Unidad2/FORMULA UNIDAD 2.md",
     "Electronica/Unidad5/Resumen clase 5.md",
     "Electronica/Unidad2/Resumen Clase 4.md",
-    "Electronica/Unidad1/Formulas.md",
     "Electronica/Fotos/formulas.png",
     "Electronica/Fotos/{4429C4EE-DFF5-4E7D-A1C9-2E528237676A}.png",
     "InformaticaAvanzada/capturas/{BD808C40-AA11-49E3-9E0B-C115CB51F499}.png",
