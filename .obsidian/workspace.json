@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InformaticaYCalculoNumerico/CalculoNumerico/Modelado, Teoría de Errores y Serie de Taylor.md",
+                "file": "InformaticaYCalculoNumerico/CalculoNumerico/Raíces de Ecuaciones ($f(x) = 0$).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modelado, Teoría de Errores y Serie de Taylor"
+              "title": "Raíces de Ecuaciones ($f(x) = 0$)"
             }
           }
         ]
@@ -213,6 +213,7 @@
   "lastOpenFiles": [
     "InformaticaYCalculoNumerico/CalculoNumerico/Calculo Numérico Guia.md",
     "InformaticaYCalculoNumerico/CalculoNumerico/Modelado, Teoría de Errores y Serie de Taylor.md",
+    "InformaticaYCalculoNumerico/CalculoNumerico/Raíces de Ecuaciones ($f(x) = 0$).md",
     "InformaticaYCalculoNumerico/CalculoNumerico",
     "InformaticaYCalculoNumerico/Ejercicios/Funciones.md",
     "InformaticaYCalculoNumerico/fcefyn.aulavirtual.unc.edu.ar_mod_quiz_attempt.php_attempt=157568&cmid=107012&page=1.png",
@@ -248,7 +249,6 @@
     "Electronica/Integrales.md",
     "Electronica/Unidad2/FORMULA UNIDAD 2.md",
     "Electronica/Unidad5/Resumen clase 5.md",
-    "Electronica/Unidad2/Resumen Clase 4.md",
     "Electronica/Fotos/formulas.png",
     "Electronica/Fotos/{4429C4EE-DFF5-4E7D-A1C9-2E528237676A}.png",
     "InformaticaAvanzada/capturas/{BD808C40-AA11-49E3-9E0B-C115CB51F499}.png",
