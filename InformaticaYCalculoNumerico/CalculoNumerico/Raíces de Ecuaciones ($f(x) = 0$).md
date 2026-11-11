@@ -51,11 +51,11 @@ $$x_r = x_u - \frac{f(x_u)(x_l - x_u)}{f(x_l) - f(x_u)}$$
 
 No necesitan encerrar la raíz en un intervalo; arrancan desde un único valor inicial $x_0$ (o dos en la secante) y "saltan" hacia la raíz. Si convergen, son **muchísimo más rápidos** que Bisección, pero corren el riesgo de **divergir** (alejarse al infinito).
 
-|**Método**|**Fórmula Iterativa (xi+1x_{i+1}xi+1​)**|**Característica Clave y Peligros (Fijas de Parcial)**|
-|---|---|---|
-|**1. Punto Fijo**|Despejás $x$ de $f(x)=0$ para armar $x = g(x)$:<br><br>  <br><br>$$x_{i+1} = g(x_i)$$|Solo converge si la derivada de $g(x)$ cerca de la raíz es menor a 1 en valor absoluto (**$\vert{}g'(x)\vert{} < 1$**). Si $\vert{}g'(x)\vert{} > 1$, diverge.|
-|**2. Newton-Raphson** _(El más famoso)_|Usa la recta tangente (necesita la derivada $f'(x)$):<br><br>  <br><br>$$x_{i+1} = x_i - \frac{f(x_i)}{f'(x_i)}$$|**Convergencia cuadrática** (el error nuevo es proporcional al cuadrado del error anterior: $E_{t,i+1} \propto E_{t,i}^2$, duplicando las cifras significativas en cada vuelta).<br><br>  <br><br>**Peligro:** Si la derivada **$f'(x_i) \approx 0$** (pendiente horizontal), ¡divide por cero y el método explota!|
-|**3. Secante**|Si es difícil derivar $f'(x)$, reemplaza la derivada por una recta entre dos puntos ($x_{i-1}$ y $x_i$):<br><br>  <br><br>$$x_{i+1} = x_i - \frac{f(x_i)(x_{i-1} - x_i)}{f(x_{i-1}) - f(x_i)}$$|No necesita calcular derivadas, pero requiere **dos puntos iniciales** (sin necesidad de que encierren a la raíz). Si $f(x_{i-1}) \approx f(x_i)$, sufre de **cancelación por resta** en el denominador.|
+| **Método**                              | **Fórmula Iterativa (xi+1x_{i+1}xi+1​)**                                                                                                                                          | **Característica Clave y Peligros (Fijas de Parcial)**                                                                                                                                                                                                                                                |
+| --------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1. Punto Fijo**                       | Despejás $x$ de $f(x)=0$ para armar $x = g(x)$:<br>$$x_{i+1} = g(x_i)$$                                                                                                           | Solo converge si la derivada de $g(x)$ cerca de la raíz es menor a 1 en valor absoluto (**$\vert{}g'(x)\vert{} < 1$**). Si $\vert{}g'(x)\vert{} > 1$, diverge.                                                                                                                                        |
+| **2. Newton-Raphson** _(El más famoso)_ | Usa la recta tangente (necesita la derivada $f'(x)$):<br>$$x_{i+1} = x_i - \frac{f(x_i)}{f'(x_i)}$$                                                                               | **Convergencia cuadrática** (el error nuevo es proporcional al cuadrado del error anterior: $E_{t,i+1} \propto E_{t,i}^2$, duplicando las cifras significativas en cada vuelta).<br>**Peligro:** Si la derivada **$f'(x_i) \approx 0$** (pendiente horizontal), ¡divide por cero y el método explota! |
+| **3. Secante**                          | Si es difícil derivar $f'(x)$, reemplaza la derivada por una recta entre dos puntos ($x_{i-1}$ y $x_i$):<br>$$x_{i+1} = x_i - \frac{f(x_i)(x_{i-1} - x_i)}{f(x_{i-1}) - f(x_i)}$$ | No necesita calcular derivadas, pero requiere **dos puntos iniciales** (sin necesidad de que encierren a la raíz). Si $f(x_{i-1}) \approx f(x_i)$, sufre de **cancelación por resta** en el denominador.                                                                                              |
 
 ### 📝 Práctica del Bloque 2 (3 ejercicios cortos de examen)
 
@@ -65,12 +65,11 @@ Resolvamos estos 3 puntos bien concretos (con cuentas redondas y fáciles) para 
 
 Querés encontrar la raíz de **$f(x) = x^2 - 9$** (sabemos que la raíz positiva es $3$) usando Bisección en el intervalo inicial **`xl = 0`** y **`xu = 4`**:
 
-1. ¿Cuánto valen $f(0)$ y $f(4)$? ¿Se cumple que $f(x_l) \cdot f(x_u) < 0$?
+1. ¿Cuánto valen $f(0)$ y $f(4)$? ¿Se cumple que $f(x_l) \cdot f(x_u) < 0$? si
     
-2. **Iteración 1:** Calculás el punto medio $x_r = \frac{0 + 4}{2} = \mathbf{2}$. Evaluás la función ahí: ¿cuánto da **$f(2)$**?
+2. **Iteración 1:** Calculás el punto medio $x_r = \frac{0 + 4}{2} = \mathbf{2}$. Evaluás la función ahí: ¿cuánto da **$f(2)$**? -5
     
-3. Ahora el programa hace el `if`: multiplica **`f(xl) * f(xr)`** (o sea, $f(0) \cdot f(2)$). ¿Ese producto da positivo o negativo? Entonces, para la **Iteración 2**, ¿la raíz quedó entre $[0, 2]$ o entre $[2, 4]$? (¿Cuál sería el nuevo `xl` y el nuevo `xu`?).
-    
+3. Ahora el programa hace el `if`: multiplica **`f(xl) * f(xr)`** (o sea, $f(0) \cdot f(2)$). ¿Ese producto da positivo o negativo? Entonces, para la **Iteración 2**, ¿la raíz quedó entre $[0, 2]$ o entre $[2, 4]$? (¿Cuál sería el nuevo `xl` y el nuevo `xu`?). Da positivo, **Si $f(x_l) \cdot f(x_r) > 0$, la raíz está en el subintervalo superior o derecho, por lo que se hace $x_l = x_r$**. Así, el nuevo intervalo es **$[2, 4]$** (`xl = 2` y `xu = 4`).
 
 #### Ejercicio 2: Una vuelta de Newton-Raphson en C++
 
@@ -84,11 +83,11 @@ double dfx = 2.0 * x;
 double x_nuevo = x - (fx / dfx);
 ```
 
-1. Si `x` arranca en `5.0`, ¿cuánto valen `fx` y `dfx`?
+1. Si `x` arranca en `5.0`, ¿cuánto valen `fx` y `dfx`? fx = 16 y dfx = 10
     
-2. ¿Qué número exacto queda guardado en **`x_nuevo`** después de aplicar la fórmula `x - (fx / dfx)`? _(Fijate qué rápido se acerca al $3$ en un solo paso)._
+2. ¿Qué número exacto queda guardado en **`x_nuevo`** después de aplicar la fórmula `x - (fx / dfx)`? _(Fijate qué rápido se acerca al $3$ en un solo paso)._ x_nuevo = 3.4
     
 
 #### Ejercicio 3: Pregunta tramposa de teoría
 
-Si en el Ejercicio 2 el usuario hubiera elegido como valor inicial **`double x = 0.0;`** en Newton-Raphson para $f(x) = x^2 - 9$, ¿por qué fallaría catastróficamente el programa al intentar calcular `x_nuevo`?
+Si en el Ejercicio 2 el usuario hubiera elegido como valor inicial **`double x = 0.0;`** en Newton-Raphson para $f(x) = x^2 - 9$, ¿por qué fallaría catastróficamente el programa al intentar calcular `x_nuevo`?  porque intenta hacer una derivada que divide por 0
