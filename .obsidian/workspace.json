@@ -27,16 +27,14 @@
             "id": "2dd36af89cbc8367",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "InformaticaYCalculoNumerico/Libros/chapra.pdf",
-                "page": 88,
-                "left": 25,
-                "top": 551,
-                "zoom": 1.7265920989289
+                "file": "InformaticaYCalculoNumerico/CalculoNumerico/Tabla de resultados 2.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "chapra"
+              "icon": "lucide-file",
+              "title": "Tabla de resultados 2"
             }
           }
         ],
@@ -231,15 +229,16 @@
   },
   "active": "2dd36af89cbc8367",
   "lastOpenFiles": [
+    "InformaticaYCalculoNumerico/CalculoNumerico/Tabla de resolución de ejercicios.md",
+    "InformaticaYCalculoNumerico/CalculoNumerico/Tabla de resultados 2.md",
+    "InformaticaYCalculoNumerico/Libros/chapra.pdf",
     "InformaticaYCalculoNumerico/Libros/Cpp para ingeniería y ciencias, 2da Ed.pdf",
     "InformaticaYCalculoNumerico/fcefyn.aulavirtual.unc.edu.ar_mod_quiz_attempt.php_attempt=157568&cmid=107012&page=1.png",
     "InformaticaYCalculoNumerico/Practica Evaluacion Integradora.md",
     "InformaticaYCalculoNumerico/fcefyn.aulavirtual.unc.edu.ar_mod_quiz_attempt.php_attempt=157568&cmid=107012 1.png",
     "InformaticaYCalculoNumerico/fcefyn.aulavirtual.unc.edu.ar_mod_quiz_attempt.php_attempt=157568&cmid=107012.png",
-    "InformaticaYCalculoNumerico/CalculoNumerico/Tabla de resolución de ejercicios.md",
     "InformaticaYCalculoNumerico/Ejercicios/Bucles Ejercicios.md",
     "{7A5BDD1C-10EB-4CA0-A12C-FCB15D126039}.png",
-    "InformaticaYCalculoNumerico/Libros/chapra.pdf",
     "InformaticaYCalculoNumerico/Ejercicios/Bucles.md",
     "InformaticaYCalculoNumerico/Ejercicios/Condicionales Ejercicios.md",
     "InformaticaYCalculoNumerico/Ejercicios/Funciones Ejercicios.md",
