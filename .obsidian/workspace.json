@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InformaticaYCalculoNumerico/CalculoNumerico/Tabla de resolución de ejercicios.md",
+                "file": "InformaticaYCalculoNumerico/Ejercicios/Bucles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tabla de resolución de ejercicios"
+              "title": "Bucles"
             }
           }
         ]
@@ -211,8 +211,12 @@
   },
   "active": "03d0c89f2e230d4b",
   "lastOpenFiles": [
-    "InformaticaYCalculoNumerico/CalculoNumerico/1. Calculo Numérico Guia.md",
+    "InformaticaYCalculoNumerico/Ejercicios/Condicionales Ejercicios.md",
+    "InformaticaYCalculoNumerico/Ejercicios/Funciones Ejercicios.md",
+    "InformaticaYCalculoNumerico/Ejercicios/Funciones.md",
+    "InformaticaYCalculoNumerico/Ejercicios/Condicionales.md",
     "InformaticaYCalculoNumerico/CalculoNumerico/Tabla de resolución de ejercicios.md",
+    "InformaticaYCalculoNumerico/CalculoNumerico/1. Calculo Numérico Guia.md",
     "InformaticaYCalculoNumerico/fcefyn.aulavirtual.unc.edu.ar_mod_quiz_attempt.php_attempt=157568&cmid=107012.png",
     "InformaticaYCalculoNumerico/CalculoNumerico/Sin confirmar 679150.crdownload",
     "InformaticaYCalculoNumerico/CalculoNumerico/Sistemas de Ecuaciones Lineales y Eliminación de Gauss.md",
@@ -225,7 +229,6 @@
     "InformaticaYCalculoNumerico/Libros/chapra.pdf",
     "InformaticaYCalculoNumerico/Libros/Cpp para ingeniería y ciencias, 2da Ed.pdf",
     "InformaticaYCalculoNumerico/CalculoNumerico",
-    "InformaticaYCalculoNumerico/Ejercicios/Funciones.md",
     "InformaticaYCalculoNumerico/C++_para_programadores.mp4",
     "InformaticaYCalculoNumerico/Ejercicios/Bucles.md",
     "Electronica/Unidad1/ClaseN1.pdf",
@@ -240,10 +243,7 @@
     "Electronica/Segundo Parcial/Clase 11.md",
     "Electronica/Primer Parcial/Primer Parcial Teorico Resuelto.pdf",
     "Electronica/Primer Parcial/Primer Parcial COMPLETO.pdf",
-    "InformaticaYCalculoNumerico/Ejercicios/Condicionales.md",
-    "InformaticaYCalculoNumerico/Ejercicios/Condicionales Ejercicios.md",
     "InformaticaYCalculoNumerico/Ejercicios/Matriz Ejercicio.md",
-    "InformaticaYCalculoNumerico/Ejercicios/Funciones Ejercicios.md",
     "Electronica/Unidad2/intento1.md",
     "Electronica/Unidad2/intento 2.md",
     "InformaticaYCalculoNumerico/Ejercicios/Bucles Ejercicios.md",
