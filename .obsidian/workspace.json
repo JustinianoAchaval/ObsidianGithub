@@ -11,17 +11,32 @@
             "id": "03d0c89f2e230d4b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "InformaticaYCalculoNumerico/Ejercicios/Bucles.md",
-                "mode": "source",
-                "source": false
+                "file": "InformaticaYCalculoNumerico/Libros/chapra.pdf",
+                "page": 88,
+                "left": 24,
+                "top": 547,
+                "zoom": 1.4481095023274646
               },
-              "icon": "lucide-file",
-              "title": "Bucles"
+              "icon": "lucide-file-text",
+              "title": "chapra"
+            }
+          },
+          {
+            "id": "2dd36af89cbc8367",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "InformaticaYCalculoNumerico/fcefyn.aulavirtual.unc.edu.ar_mod_quiz_attempt.php_attempt=157568&cmid=107012 1.png"
+              },
+              "icon": "lucide-image",
+              "title": "fcefyn.aulavirtual.unc.edu.ar_mod_quiz_attempt.php_attempt=157568&cmid=107012 1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,7 +207,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,15 +225,22 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "03d0c89f2e230d4b",
+  "active": "2dd36af89cbc8367",
   "lastOpenFiles": [
+    "InformaticaYCalculoNumerico/fcefyn.aulavirtual.unc.edu.ar_mod_quiz_attempt.php_attempt=157568&cmid=107012.png",
+    "InformaticaYCalculoNumerico/fcefyn.aulavirtual.unc.edu.ar_mod_quiz_attempt.php_attempt=157568&cmid=107012 1.png",
+    "InformaticaYCalculoNumerico/CalculoNumerico/Tabla de resolución de ejercicios.md",
+    "InformaticaYCalculoNumerico/fcefyn.aulavirtual.unc.edu.ar_mod_quiz_attempt.php_attempt=157568&cmid=107012&page=1.png",
+    "InformaticaYCalculoNumerico/Practica Evaluacion Integradora.md",
+    "InformaticaYCalculoNumerico/Ejercicios/Bucles Ejercicios.md",
+    "{7A5BDD1C-10EB-4CA0-A12C-FCB15D126039}.png",
+    "InformaticaYCalculoNumerico/Libros/chapra.pdf",
+    "InformaticaYCalculoNumerico/Ejercicios/Bucles.md",
     "InformaticaYCalculoNumerico/Ejercicios/Condicionales Ejercicios.md",
     "InformaticaYCalculoNumerico/Ejercicios/Funciones Ejercicios.md",
     "InformaticaYCalculoNumerico/Ejercicios/Funciones.md",
     "InformaticaYCalculoNumerico/Ejercicios/Condicionales.md",
-    "InformaticaYCalculoNumerico/CalculoNumerico/Tabla de resolución de ejercicios.md",
     "InformaticaYCalculoNumerico/CalculoNumerico/1. Calculo Numérico Guia.md",
-    "InformaticaYCalculoNumerico/fcefyn.aulavirtual.unc.edu.ar_mod_quiz_attempt.php_attempt=157568&cmid=107012.png",
     "InformaticaYCalculoNumerico/CalculoNumerico/Sin confirmar 679150.crdownload",
     "InformaticaYCalculoNumerico/CalculoNumerico/Sistemas de Ecuaciones Lineales y Eliminación de Gauss.md",
     "InformaticaYCalculoNumerico/CalculoNumerico/Ajuste de Curvas e Interpolación Polinomial.md",
@@ -225,12 +248,9 @@
     "InformaticaYCalculoNumerico/CalculoNumerico/Diferenciación e Integración Numérica.md",
     "InformaticaYCalculoNumerico/CalculoNumerico/Raíces de Ecuaciones ($f(x) = 0$).md",
     "InformaticaYCalculoNumerico/CalculoNumerico/Modelado, Teoría de Errores y Serie de Taylor.md",
-    "InformaticaYCalculoNumerico/fcefyn.aulavirtual.unc.edu.ar_mod_quiz_attempt.php_attempt=157568&cmid=107012&page=1.png",
-    "InformaticaYCalculoNumerico/Libros/chapra.pdf",
     "InformaticaYCalculoNumerico/Libros/Cpp para ingeniería y ciencias, 2da Ed.pdf",
     "InformaticaYCalculoNumerico/CalculoNumerico",
     "InformaticaYCalculoNumerico/C++_para_programadores.mp4",
-    "InformaticaYCalculoNumerico/Ejercicios/Bucles.md",
     "Electronica/Unidad1/ClaseN1.pdf",
     "Electronica/Unidad1/Formulas UNIDAD 1.md",
     "Electronica/Resumenes/Teórico Electrónica.pdf",
@@ -246,8 +266,6 @@
     "InformaticaYCalculoNumerico/Ejercicios/Matriz Ejercicio.md",
     "Electronica/Unidad2/intento1.md",
     "Electronica/Unidad2/intento 2.md",
-    "InformaticaYCalculoNumerico/Ejercicios/Bucles Ejercicios.md",
-    "InformaticaYCalculoNumerico/Ejercicios/Introduccion.md",
     "Electronica/Fotos/formulas.png",
     "Electronica/Fotos/{4429C4EE-DFF5-4E7D-A1C9-2E528237676A}.png",
     "InformaticaAvanzada/capturas/{BD808C40-AA11-49E3-9E0B-C115CB51F499}.png",
@@ -255,7 +273,6 @@
     "InformaticaAvanzada/capturas/{C3E0AE04-AFEB-4AA0-BBEE-C200BF001285}.png",
     "InformaticaAvanzada/capturas/{7F44B27A-7BE9-4552-8F4F-472A889E7991}.png",
     "InformaticaAvanzada/capturas/{0A317636-2B0E-49DF-8EF2-65C6576AE201}.png",
-    "InformaticaAvanzada/capturas/{16B7F6BE-FE08-490C-96E4-509025286AD4}.png",
     "Sin título.canvas"
   ]
 }

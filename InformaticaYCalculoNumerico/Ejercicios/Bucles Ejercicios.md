@@ -34,9 +34,7 @@ int main()
 
 Ahora hacé el ejercicio que sigue en la diapositiva: cambiamos el `break` por un **`continue`** y cambiamos un poquito el código:
 
-C++
-
-```
+```c++
 #include <iostream>
 using namespace std;
 
