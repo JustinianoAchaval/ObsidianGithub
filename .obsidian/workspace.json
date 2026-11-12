@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InformaticaYCalculoNumerico/CalculoNumerico/Tabla de resultados 2.md",
+                "file": "InformaticaYCalculoNumerico/Practica Evaluacion Integradora.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tabla de resultados 2"
+              "title": "Practica Evaluacion Integradora"
             }
           }
         ],
@@ -209,7 +209,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,9 +227,13 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "2dd36af89cbc8367",
+  "active": "6580b5ef67b00498",
   "lastOpenFiles": [
-    "InformaticaYCalculoNumerico/Tabla Maestra de Respuestas - Cálculo Numérico.pdf",
+    "InformaticaYCalculoNumerico/CalculoNumerico/Tabla Maestra de Respuestas - Cálculo Numérico.pdf",
+    "InformaticaYCalculoNumerico/Ejercicios/Bucles Ejercicios.md",
+    "InformaticaYCalculoNumerico/Ejercicios/Bucles.md",
+    "InformaticaYCalculoNumerico/Practica Evaluacion Integradora.md",
+    "InformaticaYCalculoNumerico/CalculoNumerico/Tabla de resultados 2.md",
     "InformaticaYCalculoNumerico/Descargas/linuxmint-22.3-xfce-64bit.iso",
     "InformaticaYCalculoNumerico/Descargas/LAMINA_N_2_T._P..ppsx",
     "InformaticaYCalculoNumerico/Descargas/LAMINA_1_FULL_MOSAICOS.ppsx",
@@ -241,7 +246,6 @@
     "InformaticaYCalculoNumerico/Descargas/Grupo_04_TPI_ED2.zip",
     "InformaticaYCalculoNumerico/Descargas/Grupo_04_TPI_ED2.pdf",
     "InformaticaYCalculoNumerico/Descargas/Git-2.55.0.5-64-bit.exe",
-    "InformaticaYCalculoNumerico/Descargas/Fórmulas electrónica.pdf",
     "InformaticaYCalculoNumerico/Descargas/fcefyn.aulavirtual.unc.edu.ar_mod_quiz_attempt.php_attempt=165908&cmid=107009.png",
     "InformaticaYCalculoNumerico/Descargas/f6399115549a8947.png",
     "InformaticaYCalculoNumerico/Descargas/descarga.jpg",
@@ -250,10 +254,6 @@
     "InformaticaYCalculoNumerico/Descargas/de067cea8831faa6.png",
     "InformaticaYCalculoNumerico/Descargas/dbaa312a87e4f9378d6aa7718f1d1e9f.webp",
     "InformaticaYCalculoNumerico/CalculoNumerico/Tabla de resolución de ejercicios.md",
-    "InformaticaYCalculoNumerico/CalculoNumerico/Tabla de resultados 2.md",
-    "InformaticaYCalculoNumerico/Practica Evaluacion Integradora.md",
-    "InformaticaYCalculoNumerico/Ejercicios/Bucles Ejercicios.md",
-    "InformaticaYCalculoNumerico/Ejercicios/Bucles.md",
     "InformaticaYCalculoNumerico/Ejercicios/Condicionales Ejercicios.md",
     "InformaticaYCalculoNumerico/Ejercicios/Funciones Ejercicios.md",
     "InformaticaYCalculoNumerico/Ejercicios/Funciones.md",
