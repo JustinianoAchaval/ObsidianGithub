@@ -209,8 +209,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,7 +226,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "6580b5ef67b00498",
+  "active": "2dd36af89cbc8367",
   "lastOpenFiles": [
     "InformaticaYCalculoNumerico/CalculoNumerico/Tabla Maestra de Respuestas - Cálculo Numérico.pdf",
     "InformaticaYCalculoNumerico/Ejercicios/Bucles Ejercicios.md",
