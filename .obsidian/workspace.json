@@ -14,9 +14,9 @@
               "type": "pdf",
               "state": {
                 "file": "InformaticaYCalculoNumerico/Libros/chapra.pdf",
-                "page": 88,
+                "page": 9,
                 "left": 24,
-                "top": 547,
+                "top": 190,
                 "zoom": 1.4481095023274646
               },
               "icon": "lucide-file-text",
@@ -27,14 +27,16 @@
             "id": "2dd36af89cbc8367",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "InformaticaYCalculoNumerico/Practica Evaluacion Integradora.md",
-                "mode": "source",
-                "source": false
+                "file": "InformaticaYCalculoNumerico/Libros/Cpp para ingeniería y ciencias, 2da Ed.pdf",
+                "page": 93,
+                "left": 31,
+                "top": 715,
+                "zoom": 1.4466755396099764
               },
-              "icon": "lucide-file",
-              "title": "Practica Evaluacion Integradora"
+              "icon": "lucide-file-text",
+              "title": "Cpp para ingeniería y ciencias, 2da Ed"
             }
           }
         ],
@@ -228,10 +230,12 @@
   },
   "active": "2dd36af89cbc8367",
   "lastOpenFiles": [
+    "InformaticaYCalculoNumerico/Libros/chapra.pdf",
+    "InformaticaYCalculoNumerico/Libros/Cpp para ingeniería y ciencias, 2da Ed.pdf",
+    "InformaticaYCalculoNumerico/Practica Evaluacion Integradora.md",
     "InformaticaYCalculoNumerico/CalculoNumerico/Tabla Maestra de Respuestas - Cálculo Numérico.pdf",
     "InformaticaYCalculoNumerico/Ejercicios/Bucles Ejercicios.md",
     "InformaticaYCalculoNumerico/Ejercicios/Bucles.md",
-    "InformaticaYCalculoNumerico/Practica Evaluacion Integradora.md",
     "InformaticaYCalculoNumerico/CalculoNumerico/Tabla de resultados 2.md",
     "InformaticaYCalculoNumerico/Descargas/linuxmint-22.3-xfce-64bit.iso",
     "InformaticaYCalculoNumerico/Descargas/LAMINA_N_2_T._P..ppsx",
@@ -244,7 +248,6 @@
     "InformaticaYCalculoNumerico/Descargas/historia_academica.pdf",
     "InformaticaYCalculoNumerico/Descargas/Grupo_04_TPI_ED2.zip",
     "InformaticaYCalculoNumerico/Descargas/Grupo_04_TPI_ED2.pdf",
-    "InformaticaYCalculoNumerico/Descargas/Git-2.55.0.5-64-bit.exe",
     "InformaticaYCalculoNumerico/Descargas/fcefyn.aulavirtual.unc.edu.ar_mod_quiz_attempt.php_attempt=165908&cmid=107009.png",
     "InformaticaYCalculoNumerico/Descargas/f6399115549a8947.png",
     "InformaticaYCalculoNumerico/Descargas/descarga.jpg",
