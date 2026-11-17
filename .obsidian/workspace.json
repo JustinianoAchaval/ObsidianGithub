@@ -11,16 +11,14 @@
             "id": "03d0c89f2e230d4b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "InformaticaYCalculoNumerico/Libros/chapra.pdf",
-                "page": 9,
-                "left": 24,
-                "top": 190,
-                "zoom": 1.4481095023274646
+                "file": "InformaticaYCalculoNumerico/Ejercicios/Condicionales.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "chapra"
+              "icon": "lucide-file",
+              "title": "Condicionales"
             }
           },
           {
@@ -30,17 +28,16 @@
               "type": "pdf",
               "state": {
                 "file": "InformaticaYCalculoNumerico/Libros/Cpp para ingeniería y ciencias, 2da Ed.pdf",
-                "page": 93,
+                "page": 135,
                 "left": 31,
-                "top": 715,
+                "top": 450,
                 "zoom": 1.4466755396099764
               },
               "icon": "lucide-file-text",
               "title": "Cpp para ingeniería y ciencias, 2da Ed"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,8 +225,9 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "2dd36af89cbc8367",
+  "active": "03d0c89f2e230d4b",
   "lastOpenFiles": [
+    "InformaticaYCalculoNumerico/Ejercicios/Condicionales Ejercicios.md",
     "InformaticaYCalculoNumerico/Libros/chapra.pdf",
     "InformaticaYCalculoNumerico/Libros/Cpp para ingeniería y ciencias, 2da Ed.pdf",
     "InformaticaYCalculoNumerico/Practica Evaluacion Integradora.md",
@@ -247,7 +245,6 @@
     "InformaticaYCalculoNumerico/Descargas/Imagen de WhatsApp 2025-11-04 a las 23.56.14_52ee2e32.jpg",
     "InformaticaYCalculoNumerico/Descargas/historia_academica.pdf",
     "InformaticaYCalculoNumerico/Descargas/Grupo_04_TPI_ED2.zip",
-    "InformaticaYCalculoNumerico/Descargas/Grupo_04_TPI_ED2.pdf",
     "InformaticaYCalculoNumerico/Descargas/fcefyn.aulavirtual.unc.edu.ar_mod_quiz_attempt.php_attempt=165908&cmid=107009.png",
     "InformaticaYCalculoNumerico/Descargas/f6399115549a8947.png",
     "InformaticaYCalculoNumerico/Descargas/descarga.jpg",
@@ -256,7 +253,6 @@
     "InformaticaYCalculoNumerico/Descargas/de067cea8831faa6.png",
     "InformaticaYCalculoNumerico/Descargas/dbaa312a87e4f9378d6aa7718f1d1e9f.webp",
     "InformaticaYCalculoNumerico/CalculoNumerico/Tabla de resolución de ejercicios.md",
-    "InformaticaYCalculoNumerico/Ejercicios/Condicionales Ejercicios.md",
     "InformaticaYCalculoNumerico/Ejercicios/Funciones Ejercicios.md",
     "InformaticaYCalculoNumerico/Ejercicios/Funciones.md",
     "InformaticaYCalculoNumerico/Ejercicios/Condicionales.md",
