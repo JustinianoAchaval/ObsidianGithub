@@ -25,11 +25,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "InformaticaYCalculoNumerico/Libros/chapra.pdf",
-                "page": 91,
-                "left": -12,
-                "top": 102,
-                "zoom": 1.2037037037037037
+                "file": "InformaticaYCalculoNumerico/Libros/chapra.pdf"
               },
               "icon": "lucide-file-text",
               "title": "chapra"
