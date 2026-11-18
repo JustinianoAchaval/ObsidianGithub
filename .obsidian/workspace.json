@@ -11,14 +11,12 @@
             "id": "03d0c89f2e230d4b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "omni-viewer.pptViewer",
               "state": {
-                "file": "InformaticaYCalculoNumerico/CalculoNumerico/Raíces de Ecuaciones ($f(x) = 0$).md",
-                "mode": "source",
-                "source": false
+                "file": "InformaticaYCalculoNumerico/Clases/Clase 10.pptx"
               },
-              "icon": "lucide-file",
-              "title": "Raíces de Ecuaciones ($f(x) = 0$)"
+              "icon": "presentation",
+              "title": "Clase 10.pptx"
             }
           },
           {
@@ -47,8 +45,7 @@
               "title": "fcefyn.aulavirtual.unc.edu.ar_mod_quiz_attempt.php_attempt=157568&cmid=107012 1 1"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -236,12 +233,17 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "6580b5ef67b00498",
+  "active": "03d0c89f2e230d4b",
   "lastOpenFiles": [
-    "InformaticaYCalculoNumerico/fcefyn.aulavirtual.unc.edu.ar_mod_quiz_attempt.php_attempt=157568&cmid=107012.png",
-    "InformaticaYCalculoNumerico/fcefyn.aulavirtual.unc.edu.ar_mod_quiz_attempt.php_attempt=157568&cmid=107012 1 1.png",
-    "InformaticaYCalculoNumerico/fcefyn.aulavirtual.unc.edu.ar_mod_quiz_attempt.php_attempt=157568&cmid=107012 1.png",
+    "InformaticaYCalculoNumerico/Clases/Clase 11.pptx",
+    "InformaticaYCalculoNumerico/Clases/Clase 1.pptx",
+    "InformaticaYCalculoNumerico/Clases/~$Clase 11.pptx",
     "InformaticaYCalculoNumerico/CalculoNumerico/Raíces de Ecuaciones ($f(x) = 0$).md",
+    "InformaticaYCalculoNumerico/Clases/a.md",
+    "InformaticaYCalculoNumerico/fcefyn.aulavirtual.unc.edu.ar_mod_quiz_attempt.php_attempt=157568&cmid=107012 1 1.png",
+    "InformaticaYCalculoNumerico/fcefyn.aulavirtual.unc.edu.ar_mod_quiz_attempt.php_attempt=165908&cmid=107009 (1).png",
+    "InformaticaYCalculoNumerico/fcefyn.aulavirtual.unc.edu.ar_mod_quiz_attempt.php_attempt=157568&cmid=107012.png",
+    "InformaticaYCalculoNumerico/fcefyn.aulavirtual.unc.edu.ar_mod_quiz_attempt.php_attempt=157568&cmid=107012 1.png",
     "InformaticaYCalculoNumerico/CalculoNumerico/1. Calculo Numérico Guia.md",
     "InformaticaYCalculoNumerico/Libros/chapra.pdf",
     "InformaticaYCalculoNumerico/Libros/Cpp para ingeniería y ciencias, 2da Ed.pdf",
@@ -261,15 +263,11 @@
     "InformaticaYCalculoNumerico/Descargas/LAMINA_N_2_T._P..ppsx",
     "InformaticaYCalculoNumerico/Descargas/LAMINA_1_FULL_MOSAICOS.ppsx",
     "InformaticaYCalculoNumerico/Descargas/InfoA 2025 - Clase 11.pdf",
-    "InformaticaYCalculoNumerico/Descargas/InfoA 2025 - Clase 10.pdf",
     "InformaticaYCalculoNumerico/Descargas/Imagen de WhatsApp 2025-11-05 a las 19.17.34_f01c222b.jpg",
     "InformaticaYCalculoNumerico/Descargas/Imagen de WhatsApp 2025-11-05 a las 19.17.34_a12cf59f.jpg",
     "InformaticaYCalculoNumerico/Descargas/Imagen de WhatsApp 2025-11-04 a las 23.56.14_52ee2e32.jpg",
-    "InformaticaYCalculoNumerico/Descargas/historia_academica.pdf",
     "InformaticaYCalculoNumerico/Descargas/fcefyn.aulavirtual.unc.edu.ar_mod_quiz_attempt.php_attempt=165908&cmid=107009.png",
     "InformaticaYCalculoNumerico/Descargas/f6399115549a8947.png",
-    "InformaticaYCalculoNumerico/Descargas/descarga.jpg",
-    "InformaticaYCalculoNumerico/Descargas/descarga.gif",
     "InformaticaYCalculoNumerico/CalculoNumerico/Tabla de resolución de ejercicios.md",
     "InformaticaYCalculoNumerico/C++/Funciones.md",
     "InformaticaYCalculoNumerico/CalculoNumerico/Sistemas de Ecuaciones Lineales y Eliminación de Gauss.md",
@@ -283,7 +281,6 @@
     "Electronica/Segundo Parcial/Clase 12.md",
     "Electronica/Segundo Parcial/Clase 11.md",
     "InformaticaYCalculoNumerico/C++/Matriz Ejercicio.md",
-    "Electronica/Unidad2/intento1.md",
     "Sin título.canvas"
   ]
 }
