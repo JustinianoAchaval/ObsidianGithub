@@ -85,3 +85,97 @@ Se desea calcular simultáneamente las concentraciones de equilibrio $c_1, c_2$ 
     Redondeo
 4. **En base al error que predomina, ¿Qué sugiere realizar para minimizar el error en este problema particular?**
 	Usar precicion doble
+
+### Ejercicio 1: Descarga de un banco de baterías industriales
+
+En una planta fotovoltaica se analiza el comportamiento de un banco de baterías de litio cuyo voltaje en bornes durante la descarga sigue la expresión analítica $V(t) = 48 - 12 e^{0.15t}$, donde $t$ se mide en horas y $V$ en voltios. Por normativa de seguridad eléctrica, el sistema de protección debe desconectar la carga cuando la tensión desciende hasta los $24\text{ V}$.
+
+Antes de configurar el controlador digital, un técnico realizó ensayos preliminares cuyos registros (entregados sin ordenar) se muestran en la siguiente tabla:
+
+|**Tiempo t (h)**|**Tensión medida V (V)**|
+|---|---|
+|6.0|18.4847|
+|1.0|34.0580|
+|4.0|26.1346|
+|0.0|36.0000|
+|5.0|22.5960|
+|2.0|32.2017|
+
+Para determinar el instante exacto de desconexión, se utilizará la ecuación analítica del modelo partiendo de dos instantes que acoten el evento, manteniendo el encierro en cada iteración sin interpolar los valores redondeados de la tabla.
+
+1. ¿A qué tipo de problema de cálculo numérico corresponde?
+    Busqueda de raices
+2. Elija el método o los métodos que sean aplicables a la resolución de este problema:
+    Metodo de biseccion y falsa posicion
+3. ¿Tipo de error que predomina en el/los método/s de resolución para este problema?
+    Error de truncamiento
+4. En base al error que predomina, ¿Qué sugiere realizar para minimizar el error en este problema particular?
+    Mediciones Adyacentes
+
+### Ejercicio 2: Trayectoria de un cohete sonda
+
+Durante el lanzamiento vertical de un cohete meteorológico, los sensores ópticos en tierra registraron su altitud $y$ (en metros) respecto al tiempo $t$ (en segundos). Para evaluar la eficiencia aerodinámica de la etapa propulsora, los ingenieros necesitan conocer la velocidad instantánea de ascenso $v = \frac{dy}{dt}$ y la aceleración $a = \frac{d^2y}{dt^2}$.
+
+|**Tiempo t (s)**|**Altitud y (m)**|
+|---|---|
+|0.0|0.0|
+|2.5|42.5|
+|5.0|168.0|
+|7.5|375.5|
+|10.0|664.0|
+
+En el instante $t = 10.0\text{ s}$ se produce la separación de la primera etapa y se requiere estimar la velocidad del vehículo en ese preciso momento empleando únicamente los datos registrados en la tabla.
+
+1. ¿A qué tipo de problema de cálculo numérico corresponde?
+    Diferenciacion numerica
+2. Elija el método o los métodos que sean aplicables a la resolución de este problema:
+    Método de diferencias finitas divididas hacia atrás
+3. ¿Tipo de error que predomina en el/los método/s de resolución para este problema?
+    Error de truncamiento
+4. En base al error que predomina, ¿Qué sugiere realizar para minimizar el error en este problema particular?
+    Mediciones adyacentes
+
+### Ejercicio 3: Diseño de un intercambiador de calor
+
+En el diseño térmico de una caldera industrial se analiza el calor específico a presión constante $c_p$ ($\text{kJ/kg}\cdot\text{K}$) de una mezcla gaseosa en función de la temperatura absoluta $T$ ($\text{K}$). La transferencia total de energía térmica entre dos estados termodinámicos viene dada por $\Delta h = \int_{T_1}^{T_2} c_p(T)\,dT$, mientras que el coeficiente de dilatación se vincula con su variación térmica.
+
+|**Temperatura T (K)**|**Calor específico cp​ (kJ/kg⋅K)**|
+|---|---|
+|300|1.005|
+|350|1.008|
+|420|1.016|
+|500|1.029|
+|600|1.051|
+
+A partir de las mediciones experimentales obtenidas en el banco de ensayos, se desea calcular el cambio total de entalpía $\Delta h$ que experimenta el gas al calentarse desde $300\text{ K}$ hasta $600\text{ K}$.
+
+1. ¿A qué tipo de problema de cálculo numérico corresponde?
+    Integracion Numerica
+2. Elija el método o los métodos que sean aplicables a la resolución de este problema:
+    Trapecio Completo
+3. ¿Tipo de error que predomina en el/los método/s de resolución para este problema?
+    Error de truncamiento
+4. En base al error que predomina, ¿Qué sugiere realizar para minimizar el error en este problema particular?
+    Utilizar todas las mediciones posibles
+
+### Ejercicio 4: Calibración de un sensor piezoeléctrico
+
+Un sensor de presión industrial entrega una señal de tensión eléctrica $E$ (en milivoltios) que varía de forma no lineal con la presión aplicada $P$ (en bares). En laboratorio se obtuvieron los siguientes valores de referencia libres de ruido experimental:
+
+|**Presión P (bar)**|**Tensión E (mV)**|
+|---|---|
+|1.0|12.4|
+|3.0|28.9|
+|7.0|64.2|
+|12.0|115.8|
+|20.0|210.5|
+
+Para programar la curva de calibración en el microcontrolador, se requiere obtener una estimación puntual de la tensión $E$ correspondiente a una presión de operación de $5.5\text{ bar}$ mediante un polinomio de grado 2 construido a partir de los datos tabulados.
+
+1. ¿A qué tipo de problema de cálculo numérico corresponde?
+    
+2. Elija el método o los métodos que sean aplicables a la resolución de este problema:
+    
+3. ¿Tipo de error que predomina en el/los método/s de resolución para este problema?
+    
+4. En base al error que predomina, ¿Qué sugiere realizar para minimizar el error en este problema particular?

@@ -11,16 +11,14 @@
             "id": "03d0c89f2e230d4b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "InformaticaYCalculoNumerico/Tabla Maestra de Cálculo Numérico - Evaluación Integradora.pdf",
-                "page": 1,
-                "left": -16,
-                "top": 305,
-                "zoom": 0.9264538418484854
+                "file": "InformaticaYCalculoNumerico/Simulacro Calulo Numerico.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Tabla Maestra de Cálculo Numérico - Evaluación Integradora"
+              "icon": "lucide-file",
+              "title": "Simulacro Calulo Numerico"
             }
           },
           {
@@ -32,7 +30,7 @@
                 "file": "InformaticaYCalculoNumerico/Tabla Maestra de Cálculo Numérico - Evaluación Integradora.pdf",
                 "page": 1,
                 "left": -16,
-                "top": 298,
+                "top": 462,
                 "zoom": 0.9264538418484854
               },
               "icon": "lucide-file-text",
@@ -241,10 +239,10 @@
   },
   "active": "03d0c89f2e230d4b",
   "lastOpenFiles": [
+    "InformaticaYCalculoNumerico/Tabla Maestra de Cálculo Numérico - Evaluación Integradora.pdf",
+    "InformaticaYCalculoNumerico/Simulacro Calulo Numerico.md",
     "InformaticaYCalculoNumerico/fcefyn.aulavirtual.unc.edu.ar_mod_quiz_review.php_attempt=170371&cmid=128660.png",
     "InformaticaYCalculoNumerico/Practica Evaluacion Integradora.md",
-    "InformaticaYCalculoNumerico/Simulacro Calulo Numerico.md",
-    "InformaticaYCalculoNumerico/Tabla Maestra de Cálculo Numérico - Evaluación Integradora.pdf",
     "InformaticaYCalculoNumerico/CalculoNumerico/Tabla Maestra de Respuestas - Cálculo Numérico.pdf",
     "InformaticaYCalculoNumerico/Sin confirmar 791183.crdownload",
     "InformaticaYCalculoNumerico/fcefyn.aulavirtual.unc.edu.ar_mod_quiz_attempt.php_attempt=170371&cmid=128660.png",
