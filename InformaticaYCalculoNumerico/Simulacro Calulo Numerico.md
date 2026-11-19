@@ -173,9 +173,10 @@ Un sensor de presión industrial entrega una señal de tensión eléctrica $E$ (
 Para programar la curva de calibración en el microcontrolador, se requiere obtener una estimación puntual de la tensión $E$ correspondiente a una presión de operación de $5.5\text{ bar}$ mediante un polinomio de grado 2 construido a partir de los datos tabulados.
 
 1. ¿A qué tipo de problema de cálculo numérico corresponde?
-    
+    Sistema lineales
 2. Elija el método o los métodos que sean aplicables a la resolución de este problema:
-    
+    Gauss simple
 3. ¿Tipo de error que predomina en el/los método/s de resolución para este problema?
-    
+    Problema de reondeo 
 4. En base al error que predomina, ¿Qué sugiere realizar para minimizar el error en este problema particular?
+   Pivoteo parcial

@@ -30,7 +30,7 @@
                 "file": "InformaticaYCalculoNumerico/Tabla Maestra de Cálculo Numérico - Evaluación Integradora.pdf",
                 "page": 1,
                 "left": -16,
-                "top": 462,
+                "top": 157,
                 "zoom": 0.9264538418484854
               },
               "icon": "lucide-file-text",
@@ -49,7 +49,8 @@
               "title": "fcefyn.aulavirtual.unc.edu.ar_mod_quiz_attempt.php_attempt=157568&cmid=107012 1 1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -237,10 +238,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "03d0c89f2e230d4b",
+  "active": "2dd36af89cbc8367",
   "lastOpenFiles": [
-    "InformaticaYCalculoNumerico/Tabla Maestra de Cálculo Numérico - Evaluación Integradora.pdf",
     "InformaticaYCalculoNumerico/Simulacro Calulo Numerico.md",
+    "InformaticaYCalculoNumerico/Tabla Maestra de Cálculo Numérico - Evaluación Integradora.pdf",
     "InformaticaYCalculoNumerico/fcefyn.aulavirtual.unc.edu.ar_mod_quiz_review.php_attempt=170371&cmid=128660.png",
     "InformaticaYCalculoNumerico/Practica Evaluacion Integradora.md",
     "InformaticaYCalculoNumerico/CalculoNumerico/Tabla Maestra de Respuestas - Cálculo Numérico.pdf",
