@@ -60,7 +60,9 @@ Dadas las matrices:
 $$A = \begin{pmatrix} 1 & 2 & 0 \\ 2 & 5 & -1 \\ 0 & -1 & 3 \end{pmatrix} \quad \text{y} \quad B = \begin{pmatrix} 1 & 2 & 0 \\ 0 & 1 & -1 \\ 0 & 0 & 2 \end{pmatrix}$$
 
 a) Indicá una secuencia de 2 operaciones elementales por filas ($e_1$ y $e_2$) que transforme $A$ en $B$.
+F2 - 2.F1 despues F3 + F2
 
 b) Escribí las matrices elementales $E_1$ y $E_2$ asociadas y calculá la matriz $P$ tal que $B = PA$.
+
 
 c) Justificá teóricamente (sin calcular determinantes ni hacer cuentas) por qué $A$ también es equivalente por filas a $B$, y expresá $A$ en función de $B$ y las inversas de $E_1, E_2$.
