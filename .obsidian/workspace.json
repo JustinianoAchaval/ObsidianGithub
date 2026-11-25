@@ -39,16 +39,18 @@
             "id": "5e526c0a50df6047",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "InformaticaYCalculoNumerico/fcefyn.aulavirtual.unc.edu.ar_mod_quiz_attempt.php_attempt=157568&cmid=107012 1 1.png"
+                "file": "AlgebraLineal/Bloques/Bloque1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "fcefyn.aulavirtual.unc.edu.ar_mod_quiz_attempt.php_attempt=157568&cmid=107012 1 1"
+              "icon": "lucide-file",
+              "title": "Bloque1"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -236,8 +238,13 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "2dd36af89cbc8367",
+  "active": "5e526c0a50df6047",
   "lastOpenFiles": [
+    "AlgebraLineal/Bloques/Videos Bloque 1.md",
+    "AlgebraLineal/Bloques/Bloque1.md",
+    "AlgebraLineal/ExamenFinal/plan_de_estudio_de_lgebra_lineal.md",
+    "Sin título.md",
+    "AlgebraLineal/Bloques",
     "AlgebraLineal/Classroom/MAPAS CONCEPTUALES/2) Mapa conceptual_Det-Val y Vect Propios-Diag.pdf",
     "AlgebraLineal/Classroom/MAPAS CONCEPTUALES/1) Mapa conceptual_Espacios con Prod Interno.pdf",
     "AlgebraLineal/Classroom/MAPAS CONCEPTUALES",
@@ -247,10 +254,7 @@
     "AlgebraLineal/Classroom/Guias de ejercicios/3. SEL y MATRICES - Guia de ejercicios sugeridos (parte I).pdf",
     "AlgebraLineal/Classroom/Guias de ejercicios/2. RECTA y PLANO - Guia de ejercicios sugeridos.pdf",
     "AlgebraLineal/Classroom/Guias de ejercicios/1. VECTORES - Guia de ejercicios sugeridos.pdf",
-    "AlgebraLineal/Classroom/Guias de ejercicios",
-    "AlgebraLineal/Classroom/APUNTES - LIBRO/8. Algebra Lineal 2023 edición renovada.pdf",
     "AlgebraLineal/Classroom/APUNTES - LIBRO/6. CORRECCIÓN de error de tipeo en demostración pag40.jpg",
-    "AlgebraLineal/ExamenFinal/plan_de_estudio_de_lgebra_lineal.md",
     "InformaticaYCalculoNumerico/Simulacro Calulo Numerico.md",
     "InformaticaYCalculoNumerico/fcefyn.aulavirtual.unc.edu.ar_mod_quiz_review.php_attempt=170371&cmid=128660.png",
     "InformaticaYCalculoNumerico/Practica Evaluacion Integradora.md",
@@ -282,8 +286,6 @@
     "Electronica/Unidad1/Formulas UNIDAD 1.md",
     "InformaticaYCalculoNumerico/C++/Matriz.md",
     "Electronica/Segundo Parcial/Resumen JFET.md",
-    "Electronica/Segundo Parcial/JFEET.md",
-    "Electronica/Segundo Parcial/Clase 8,9y10.md",
     "Sin título.canvas"
   ]
 }
