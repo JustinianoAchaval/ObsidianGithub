@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AlgebraLineal/Bloques/Bloque1.md",
+                "file": "AlgebraLineal/ExamenFinal/plan_de_estudios_final.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bloque1"
+              "title": "plan_de_estudios_final"
             }
           }
         ],
@@ -240,9 +240,13 @@
   },
   "active": "5e526c0a50df6047",
   "lastOpenFiles": [
-    "AlgebraLineal/Bloques/Videos Bloque 1.md",
-    "AlgebraLineal/Bloques/Bloque1.md",
+    "AlgebraLineal/AL 4059 - EXAMEN MODELO Alumno Regular.pdf",
+    "AlgebraLineal/ExamenFinal/plan_de_estudios_final.md",
+    "AlgebraLineal/ExamenFinal/Sin confirmar 833638.crdownload",
+    "AlgebraLineal/AL 4059 - EXAMEN MODELO Alumno Libre.pdf",
     "AlgebraLineal/ExamenFinal/plan_de_estudio_de_lgebra_lineal.md",
+    "AlgebraLineal/Bloques/Bloque1.md",
+    "AlgebraLineal/Bloques/Videos Bloque 1.md",
     "Sin título.md",
     "AlgebraLineal/Bloques",
     "AlgebraLineal/Classroom/MAPAS CONCEPTUALES/2) Mapa conceptual_Det-Val y Vect Propios-Diag.pdf",
@@ -251,9 +255,6 @@
     "AlgebraLineal/Classroom/Guias de ejercicios/6. Algebra Lineal - Guia EJERCICIOS -desde Esp Vectorial en adelante-.pdf",
     "AlgebraLineal/Classroom/Guias de ejercicios/5. SEL y MATRICES - Guia de ejercicios sugeridos (parte III).pdf",
     "AlgebraLineal/Classroom/Guias de ejercicios/4. SEL y MATRICES - Guia de ejercicios sugeridos (parte II).pdf",
-    "AlgebraLineal/Classroom/Guias de ejercicios/3. SEL y MATRICES - Guia de ejercicios sugeridos (parte I).pdf",
-    "AlgebraLineal/Classroom/Guias de ejercicios/2. RECTA y PLANO - Guia de ejercicios sugeridos.pdf",
-    "AlgebraLineal/Classroom/Guias de ejercicios/1. VECTORES - Guia de ejercicios sugeridos.pdf",
     "AlgebraLineal/Classroom/APUNTES - LIBRO/6. CORRECCIÓN de error de tipeo en demostración pag40.jpg",
     "InformaticaYCalculoNumerico/Simulacro Calulo Numerico.md",
     "InformaticaYCalculoNumerico/fcefyn.aulavirtual.unc.edu.ar_mod_quiz_review.php_attempt=170371&cmid=128660.png",
@@ -284,8 +285,6 @@
     "InformaticaYCalculoNumerico/CalculoNumerico/Ecuaciones Diferenciales Ordinarias (EDO - Valor Inicial).md",
     "InformaticaYCalculoNumerico/CalculoNumerico/Diferenciación e Integración Numérica.md",
     "Electronica/Unidad1/Formulas UNIDAD 1.md",
-    "InformaticaYCalculoNumerico/C++/Matriz.md",
-    "Electronica/Segundo Parcial/Resumen JFET.md",
     "Sin título.canvas"
   ]
 }
