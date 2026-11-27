@@ -11,14 +11,16 @@
             "id": "03d0c89f2e230d4b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "AlgebraLineal/Bloques/bloque_1_sistemas_lineales_y_geometr_a_en_r3.md",
-                "mode": "source",
-                "source": false
+                "file": "AlgebraLineal/AL 4059 - EXAMEN MODELO Alumno Regular.pdf",
+                "page": 1,
+                "left": -11,
+                "top": 683,
+                "zoom": 1.3110125050423558
               },
-              "icon": "lucide-file",
-              "title": "bloque_1_sistemas_lineales_y_geometr_a_en_r3"
+              "icon": "lucide-file-text",
+              "title": "AL 4059 - EXAMEN MODELO Alumno Regular"
             }
           },
           {
@@ -27,18 +29,17 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "AlgebraLineal/AL 4059 - EXAMEN MODELO Alumno Regular.pdf",
+                "file": "AlgebraLineal/AL 4059 - EXAMEN MODELO Alumno Libre.pdf",
                 "page": 1,
                 "left": -11,
-                "top": 456,
+                "top": 554,
                 "zoom": 1.3110125050423558
               },
               "icon": "lucide-file-text",
-              "title": "AL 4059 - EXAMEN MODELO Alumno Regular"
+              "title": "AL 4059 - EXAMEN MODELO Alumno Libre"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,13 +227,13 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "2dd36af89cbc8367",
+  "active": "03d0c89f2e230d4b",
   "lastOpenFiles": [
     "AlgebraLineal/AL 4059 - EXAMEN MODELO Alumno Libre.pdf",
-    "AlgebraLineal/ExamenFinal/plan_de_estudios_final.md",
-    "AlgebraLineal/Bloques/bloque_1_sistemas_lineales_y_geometr_a_en_r3.md",
-    "AlgebraLineal/Bloques/ejercicio_1_conjunto_soluci_n_como_combinaci_n_lineal.md",
     "AlgebraLineal/AL 4059 - EXAMEN MODELO Alumno Regular.pdf",
+    "AlgebraLineal/Bloques/bloque_1_sistemas_lineales_y_geometr_a_en_r3.md",
+    "AlgebraLineal/ExamenFinal/plan_de_estudios_final.md",
+    "AlgebraLineal/Bloques/ejercicio_1_conjunto_soluci_n_como_combinaci_n_lineal.md",
     "InformaticaYCalculoNumerico/Simulacro Calulo Numerico.md",
     "AlgebraLineal/ExamenFinal/plan_de_estudio_de_lgebra_lineal.md",
     "AlgebraLineal/Bloques/Sin confirmar 140169.crdownload",
